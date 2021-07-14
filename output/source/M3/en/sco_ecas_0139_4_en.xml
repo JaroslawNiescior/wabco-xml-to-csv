@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0139_4.swf" language="en">
+<tf desc="mc" ref="7" fs="13" x="342" y="75" wi="309.05" he="59">
+The distance between the frame and the axle body can be suddenly changed during control processes:
+Crushing hazard!</tf>
+<tf desc="mc" ref="8" fs="13" x="342.45" y="220" wi="354.5" he="22">
+Before wheel replacement: Deacticate ECAS by all means:</tf>
+<tf desc="mc" ref="9" fs="13" x="342" y="400" wi="306" he="58">
+When the supply pressure is low, move the vehicle slowly and with caution, otherwise the vehicle and the ECAS system may be damaged!</tf>
+<tf desc="mc" ref="21" fs="13" x="372.45" y="248" wi="307.05" he="22">
+Ignition off</tf>
+<tf desc="mc" ref="22" fs="13" x="372.45" y="271" wi="280.5" he="20">
+Wait until the control processes are finished</tf>
+<tf desc="mc" ref="23" fs="13" x="372.45" y="294" wi="289.05" he="21">
+Battery main switch OFF (if existing)</tf>
+</textfields>

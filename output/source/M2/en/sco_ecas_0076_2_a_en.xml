@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<audios file="sco_ecas_0076_2.swf" language="en">
+<au ref="1">
+The ECAS ECU is powered via the ABS or EBS control unit. From there, it also gets a speed signal and, in the case of EBS, the pressure sensor data. Together with the ABS or EBS ECU it jointly uses the diagnostic socket which is mostly mounted on the side of the vehicle.
+</au>
+<au ref="2">
+In order to keep the connecting cable short, the ECAS ECU is mostly installed near to the ABS or EBS ECU.
+</au>
+</audios>

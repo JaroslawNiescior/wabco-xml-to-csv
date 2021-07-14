@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0041_2.swf" language="en">
+<tf desc="mc" ref="1" fs="13" x="158" y="60" wi="62.05" he="18.5">
+Rule #1:</tf>
+<tf desc="mc" ref="2" fs="13" x="240" y="60" wi="162.05" he="18.5">
+4 &lt; count value &lt; 255</tf>
+<tf desc="mc" ref="3" fs="13" x="158" y="93" wi="62.05" he="18.5">
+Rule #2:</tf>
+<tf desc="mc" ref="4" fs="13" x="240" y="93" wi="204.05" he="18.5">
+count value of the upper level &gt;</tf>
+<tf desc="mc" ref="5" fs="13" x="240" y="110" wi="437" he="20">
+count value driving level + triple reference level tolerance + 3 counts</tf>
+<tf desc="mc" ref="6" fs="13" x="158" y="142" wi="62.05" he="18.5">
+Rule #3:</tf>
+<tf desc="mc" ref="7" fs="13" x="240" y="142" wi="217.05" he="18.5">
+count value lower level &lt;</tf>
+<tf desc="mc" ref="8" fs="13" x="240" y="158" wi="403" he="23">
+count value driving level - double reference level tolerance</tf>
+<tf desc="mc" ref="9" fs="12" x="36" y="311.75" wi="50.05" he="19.95">
+Level</tf>
+<tf desc="mc" ref="10" fs="12" x="89.45" y="304" wi="157.55" he="20">
+Reference level tolerance</tf>
+<tf desc="mc" ref="11" fs="12" x="235.5" y="342.75" wi="111" he="18.5">
+Reference level</tf>
+<tf desc="mc" ref="12" fs="12" x="233.5" y="430.75" wi="103.05" he="20">
+Starting level</tf>
+<tf desc="mc" ref="21" fs="12" x="509" y="206" wi="198.05" he="18.5">
+count value 255</tf>
+<tf desc="mc" ref="22" fs="15" x="509" y="242" wi="198.05" he="20.8">
+Upper level</tf>
+<tf desc="mc" ref="23" fs="12" x="509" y="295" wi="198.05" he="18.5">
+3 counts</tf>
+<tf desc="mc" ref="24" fs="12" x="509" y="317" wi="198.05" he="18.5">
+Triple reference level tolerance</tf>
+<tf desc="mc" ref="25" fs="15" x="509" y="342" wi="198.05" he="20.8">
+Driving level</tf>
+<tf desc="mc" ref="26" fs="12" x="509" y="366" wi="198.05" he="18.5">
+Double reference level tolerance</tf>
+<tf desc="mc" ref="27" fs="15" x="509" y="434" wi="181" he="22">
+Lower level</tf>
+<tf desc="mc" ref="28" fs="12" x="509" y="472" wi="198.05" he="18.5">
+count value 4</tf>
+</textfields>

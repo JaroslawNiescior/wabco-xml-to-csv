@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0041_1.swf" language="en">
+<tf desc="mc" ref="3" fs="13" x="480.5" y="174.55" wi="221.1" he="94.95">
+When the calibrated count values break certain rules, after calibration an error message occurs.
+
+The rules are as follows ...
+</tf>
+</textfields>

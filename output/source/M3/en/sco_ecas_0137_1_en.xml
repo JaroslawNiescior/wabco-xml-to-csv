@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0137_1.swf" language="en">
+<tf desc="mc" ref="6" fs="13" x="157.45" y="411" wi="333.05" he="18.95">
+The ECAS diagnosis software is on two ways available:</tf>
+<tf desc="mc" ref="21" fs="13" x="187.45" y="441" wi="482.1" he="21">
+As part of a software subscription for download ...</tf>
+<tf desc="mc" ref="22" fs="13" x="187.45" y="468" wi="436.1" he="18.5">
+or separately on discs</tf>
+<tf desc="mc" ref="28" fs="13" x="45.4" y="276.05" wi="204.05" he="18.5">
+To order the software subscription:</tf>
+<tf desc="mc" ref="29" fs="13" x="45.4" y="299.05" wi="141.05" he="18.5">
+www.wabco-auto.com</tf>
+<obj desc="mc" ref="7" x="127" y="114.5" wi="30" he="19"/>
+<obj desc="mc" ref="27" x="283" y="225.5" wi="30" he="19"/>
+<obj desc="mc" ref="2" x="532.15" y="123.7" wi="34.65" he="34.65"/>
+<obj desc="mc" ref="9" x="517" y="398.45" wi="19" he="30"/>
+</textfields>

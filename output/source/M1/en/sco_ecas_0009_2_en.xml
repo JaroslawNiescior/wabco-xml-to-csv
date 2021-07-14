@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0009_2.swf" language="en">
+<tf desc="mc" ref="2" fs="16" x="142" y="204.5" wi="77" he="24.5">
+Pressure</tf>
+<tf desc="mc" ref="3" fs="16" x="221" y="205.5" wi="30" he="21.9">
+=</tf>
+<tf desc="mc" ref="4" fs="16" x="261" y="188" wi="101" he="22">
+Force</tf>
+<tf desc="mc" ref="6" fs="16" x="261" y="222.55" wi="82" he="25">
+Area</tf>
+<tf desc="mc" ref="7" fs="16" x="199" y="324.5" wi="69" he="28">
+P</tf>
+<tf desc="mc" ref="8" fs="16" x="264" y="308" wi="101" he="22">
+F</tf>
+<tf desc="mc" ref="10" fs="16" x="264" y="342.55" wi="82" he="25">
+A</tf>
+<tf desc="mc" ref="12" fs="16" x="221" y="325.5" wi="30" he="21.9">
+=</tf>
+</textfields>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0039_2.swf" language="en">
+<tf desc="mc" ref="2" fs="13" x="410.45" y="102" wi="226.5" he="54">
+Addressing a prescribed driving level using a specification in millimeters for reference dimension A.</tf>
+</textfields>

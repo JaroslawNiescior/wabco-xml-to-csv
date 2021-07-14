@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0015_1.swf" language="en">
+<tf desc="mc" ref="3" fs="13" x="95" y="310.05" wi="106" he="20.9">
+Reference level</tf>
+</textfields>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0126_1.swf" language="en">
+<tf desc="mc" ref="3" fs="13" x="260" y="210" wi="389.1" he="23">
+What you should know at the end of this module ...</tf>
+<tf desc="mc" ref="21" fs="13" x="289" y="248" wi="347.1" he="19">
+How ECAS detects and handles faults</tf>
+<tf desc="mc" ref="22" fs="13" x="289" y="275" wi="287" he="35">
+How to prepare and start the ECAS diagnosis using the PC</tf>
+<tf desc="mc" ref="23" fs="13" x="289" y="318" wi="270" he="36">
+How to display and handle messages stored in the ECAS ECU</tf>
+<tf desc="mc" ref="24" fs="13" x="289" y="361" wi="282" he="37">
+How to control ECAS components for testing purposes</tf>
+<tf desc="mc" ref="25" fs="13" x="289" y="404" wi="301.1" he="20">
+How to calibrate the height and pressure sensors</tf>
+<tf desc="mc" ref="26" fs="13" x="289" y="431" wi="301.1" he="20">
+How to change an ECAS parameter</tf>
+<tf desc="mc" ref="27" fs="13" x="289" y="458" wi="252" he="35">
+Which safety precautions should be taken during the ECAS diagnosis</tf>
+<obj desc="mc" ref="11" x="262" y="252" wi="10" he="10"/>
+<obj desc="mc" ref="12" x="262" y="279" wi="10" he="10"/>
+<obj desc="mc" ref="13" x="262" y="322" wi="10" he="10"/>
+<obj desc="mc" ref="14" x="262" y="365" wi="10" he="10"/>
+<obj desc="mc" ref="15" x="262" y="408" wi="10" he="10"/>
+<obj desc="mc" ref="16" x="262" y="435" wi="10" he="10"/>
+<obj desc="mc" ref="17" x="262" y="462" wi="10" he="10"/>
+</textfields>

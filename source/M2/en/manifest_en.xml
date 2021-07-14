@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<itemtitles file="imsmanifest.xml" language="en">
+<itemtitle identifier="ITEM-75DA2B8B-4662-4A42-5D47-3FFCFC63D8F9">
+ECAS: Functions, components, systems
+</itemtitle>
+<itemtitle identifier="ITEM-90F1B9BB-51F5-2935-00E4-558C8A10A0FB">
+Freddie ...
+</itemtitle>
+<itemtitle identifier="ITEM-776CD917-6FAA-9843-F3EA-EDC8018EEE4B">
+Introduction and directions for use
+</itemtitle>
+<itemtitle identifier="ITEM-A663B864-171C-D640-7E88-5A1D123BBC0C">
+System functions of ECAS
+</itemtitle>
+<itemtitle identifier="ITEM-0068F222-AF0F-3916-6D54-EDA268CF8087">
+The basis function: Reference level control
+</itemtitle>
+<itemtitle identifier="ITEM-1E7EC2FE-925B-75D9-7B65-BC694346DE07">
+Driving level I
+</itemtitle>
+<itemtitle identifier="ITEM-BF168C52-D756-BD05-3065-21637D289CCC">
+Driving levels II and III
+</itemtitle>
+<itemtitle identifier="ITEM-F473B79B-1BEB-51FB-66C1-9B4EA967C201">
+Exercise: Driving levels
+</itemtitle>
+<itemtitle identifier="ITEM-EF0D4F1A-D592-EF59-7F53-4CF195A82ABE">
+Unloading level
+</itemtitle>
+<itemtitle identifier="ITEM-2D7CA2AC-2193-7DD4-4F48-6AB65C64E416">
+Memory levels 1 and 2
+</itemtitle>
+<itemtitle identifier="ITEM-0C3E5262-C82F-989F-74B5-B2D479095EA9">
+Exercise: Unloading level and memory levels
+</itemtitle>
+<itemtitle identifier="ITEM-A4BDCBA5-E6CB-C823-B86B-11C342915CB2">
+Freddie ...
+</itemtitle>
+<itemtitle identifier="ITEM-BCC9F93E-0C63-0050-D38A-DC9091CFA2F6">
+Height limitation
+</itemtitle>
+<itemtitle identifier="ITEM-2A2EA230-A0F9-5049-4186-73621F905FDC">
+Lateral stabilisation
+</itemtitle>
+<itemtitle identifier="ITEM-326F6EC0-7101-4061-2411-C11BBE301D57">
+Lifting axle control and automatic lowering
+</itemtitle>
+<itemtitle identifier="ITEM-534ECE49-6E1E-433E-FA9A-3A2B55B5AD11">
+Offset point adjustment
+</itemtitle>
+<itemtitle identifier="ITEM-681DAAA9-03BD-9173-40DD-8299C53307E3">
+Traction help
+</itemtitle>
+<itemtitle identifier="ITEM-A31B7AE0-BF6D-2DF5-4DA5-466E1BE9488F">
+Freddie ...
+</itemtitle>
+<itemtitle identifier="ITEM-99CF8CDB-1258-F495-0448-820F78380E9A">
+Overload protection
+</itemtitle>
+<itemtitle identifier="ITEM-628F83C5-DD0D-0E1F-C14B-00846E0DA822">
+Tyre deflection compensation
+</itemtitle>
+<itemtitle identifier="ITEM-F1A9016C-6B57-08CC-61FF-21B6798A0D3A">
+Exercise: Tyre deflection compensation
+</itemtitle>
+<itemtitle identifier="ITEM-7B555394-D8C4-E239-3AC9-7542F2EC9226">
+On the trailer: Standby function
+</itemtitle>
+<itemtitle identifier="ITEM-CA2F5D9A-FB21-8144-967C-6346FEFD2911">
+On the bus: Kneeling
+</itemtitle>
+<itemtitle identifier="ITEM-5B5DB17C-7E07-000E-7EAE-D56B55913ABD">
+Freddie ...
+</itemtitle>
+<itemtitle identifier="ITEM-0873F2FC-6F68-38F1-383D-B6DE979191FC">
+The ECAS components
+</itemtitle>
+<itemtitle identifier="ITEM-6354E953-8660-9FDB-33B0-11CDBD1ECB37">
+ECAS ECU
+</itemtitle>
+<itemtitle identifier="ITEM-2CA80A28-4CAA-B201-79C5-C7A96682C411">
+General tasks of the ECAS ECU
+</itemtitle>
+<itemtitle identifier="ITEM-7FE81639-DA3B-6D97-9E34-315C39BE780F">
+Exercise: ECAS ECU
+</itemtitle>
+<itemtitle identifier="ITEM-7D2BD531-A787-7D61-D148-A998069711A6">
+ECAS ECU on motor vehicle and bus
+</itemtitle>
+<itemtitle identifier="ITEM-2CB2D82D-A157-3D27-A8F3-4200A072920B">
+ECAS ECU on the trailer
+</itemtitle>
+<itemtitle identifier="ITEM-D455D1C7-1CE7-104F-DA87-12D24AD5DE0E">
+Freddie ...
+</itemtitle>
+<itemtitle identifier="ITEM-5E080A5E-E915-A6CB-CB41-4DDFCDD5445A">
+Height sensors
+</itemtitle>
+<itemtitle identifier="ITEM-8641CBDD-4AC6-849B-D7A0-5C41D247F9D0">
+The "conventional" height sensor
+</itemtitle>
+<itemtitle identifier="ITEM-0EBD4F9B-84D9-0941-8D10-768E4C30E42E">
+Angle sensor
+</itemtitle>
+<itemtitle identifier="ITEM-DE20B04E-848B-A846-DAEA-D4BDACBD1712">
+Freddie ...
+</itemtitle>
+<itemtitle identifier="ITEM-7542B209-3A59-13A6-17C3-94A1C1745145">
+Exercise: Height sensors and counts
+</itemtitle>
+<itemtitle identifier="ITEM-E5A43604-D49E-5F63-99CE-095C2B4F9284">
+ECAS solenoid valves
+</itemtitle>
+<itemtitle identifier="ITEM-949F3145-1117-FEE1-3DB8-A942EF5C5321">
+Example: ECAS rear axle valve for 2-point control
+</itemtitle>
+<itemtitle identifier="ITEM-49817B50-BF6C-EFF0-935F-25131A3DCEFC">
+Exercise: ECAS rear axle valve for 2-point control
+</itemtitle>
+<itemtitle identifier="ITEM-D7016F6D-4750-5189-A703-78F09056C630">
+ECAS valve block for rear axle and lifting axle
+</itemtitle>
+<itemtitle identifier="ITEM-E44FC5B2-64E9-E2E7-AD4C-16393609B020">
+Freddie ...
+</itemtitle>
+<itemtitle identifier="ITEM-437D6E2B-3C62-E2FF-3A65-FF306577BDE0">
+Exercise: ECAS valve block for rear axle and lifting axle
+</itemtitle>
+<itemtitle identifier="ITEM-0FCFFA86-07C4-A0E1-C6B7-C7122B469A4C">
+The ECAS remote-control unit
+</itemtitle>
+<itemtitle identifier="ITEM-6182953D-60E7-5016-7E6B-9A9327A85727">
+What´s the use of the ECAS remote-control unit?
+</itemtitle>
+<itemtitle identifier="ITEM-871647AF-C7B6-072E-83EE-865C555D509E">
+Exercise: Raising and lowering the rear chassis
+</itemtitle>
+<itemtitle identifier="ITEM-D79DA70D-2772-FDA8-169D-96A12842FD2D">
+Exercise: Raising and lowering the chassis
+</itemtitle>
+<itemtitle identifier="ITEM-8D9B2A69-A0CD-47FB-0FDE-A4A1FB5E48EB">
+Exercise: Raising and lowering the lifting axle
+</itemtitle>
+<itemtitle identifier="ITEM-4E1E40A7-5017-50D5-990A-BBB504C6358A">
+Freddie ...
+</itemtitle>
+<itemtitle identifier="ITEM-96FE03F0-1C0A-B6D2-6753-88503BF90C0F">
+Exercise: Activating the traction help
+</itemtitle>
+<itemtitle identifier="ITEM-AABC741B-A101-D077-ACA3-202B2A1979FC">
+Exercise: Activating the driving level I
+</itemtitle>
+<itemtitle identifier="ITEM-8A1C1FE8-5F0A-324C-3559-B8657AF62686">
+Exercise: Addressing the current driving level
+</itemtitle>
+<itemtitle identifier="ITEM-88A566DD-D045-7463-1ADA-AB17497D1311">
+Exercise: Storing the memory level 1
+</itemtitle>
+<itemtitle identifier="ITEM-1FCDDE6A-A02A-D9CB-BFA9-0FC01D2E1270">
+Exercise: Addressing the memory level 2
+</itemtitle>
+<itemtitle identifier="ITEM-07FA91E9-844B-7A75-3D8E-775435F6D6EF">
+On the trailer: Control box
+</itemtitle>
+<itemtitle identifier="ITEM-8B76BEC4-1BFC-D812-97F6-8F79428206F0">
+Freddie ...
+</itemtitle>
+<itemtitle identifier="ITEM-CD4A17B5-0B63-FD1E-C955-070F932D7DEE">
+On the trailer: Battery box for standby operation
+</itemtitle>
+<itemtitle identifier="ITEM-6B0AB04F-5800-85A4-D5A3-8AC56E3206AC">
+ECAS systems
+</itemtitle>
+<itemtitle identifier="ITEM-F9C431AB-F735-BCEF-E8CA-57796318957A">
+ECAS control types depending on the number of sensors
+</itemtitle>
+<itemtitle identifier="ITEM-7D6634CC-1CD6-9AEB-801C-ED23B5D192E2">
+1-point control
+</itemtitle>
+<itemtitle identifier="ITEM-EEDE9C3C-FBD5-24D9-E66E-67DB7A796B7D">
+2-point control
+</itemtitle>
+<itemtitle identifier="ITEM-19596005-6407-2D11-7968-2F905493C5D7">
+3-point control
+</itemtitle>
+<itemtitle identifier="ITEM-E4B9E307-64EC-DA3F-CED7-16709AEE210E">
+Exercise: ECAS control types
+</itemtitle>
+<itemtitle identifier="ITEM-EC0BC46F-BA94-6005-8498-DF02C0990B2B">
+ECAS on the motor vehicle
+</itemtitle>
+<itemtitle identifier="ITEM-EB5791E7-E63C-3C45-A400-4D3CE20204E5">
+Freddie ...
+</itemtitle>
+<itemtitle identifier="ITEM-1AB707A4-3651-ABF6-D82B-01E04D596F8E">
+System design example: Motor vehicle 4x2 full air
+</itemtitle>
+<itemtitle identifier="ITEM-70E32275-11B5-160A-8F91-3A3A6F6EB367">
+Motor vehicle 4x2 full air: Changing the load
+</itemtitle>
+<itemtitle identifier="ITEM-B42C370A-6506-DB48-0DFE-C1E2D462EB29">
+Exercise: Changing the load
+</itemtitle>
+<itemtitle identifier="ITEM-BC0958D9-CE44-BF1D-AFB1-AFE7C471DC0F">
+Motor vehicle 4x2 full air: Raising and lowering using the remote-control unit
+</itemtitle>
+<itemtitle identifier="ITEM-953AB594-0F05-2C5D-C9B3-7FA7A3CB4B63">
+ECAS on the trailer
+</itemtitle>
+<itemtitle identifier="ITEM-4C327351-78CD-279F-6D6C-599B809044FE">
+System design example: Semitrailer with lifting axle
+</itemtitle>
+<itemtitle identifier="ITEM-CB7F51AF-5800-1200-918A-1CB0720D7456">
+Semitrailer with lifting axle: Raising and lowering using the remote-control unit
+</itemtitle>
+<itemtitle identifier="ITEM-F9F62B75-34BF-F295-C836-3952B6FCF632">
+Semitrailer with lifting axle: Raising and lowering the lifting axle
+</itemtitle>
+<itemtitle identifier="ITEM-541822D9-D532-A8C2-76F1-4299F56C84B6">
+Exercise: Changing the load
+</itemtitle>
+<itemtitle identifier="ITEM-0C99E624-49C2-58E4-A77C-B4E7E8921AB1">
+ECAS on the bus
+</itemtitle>
+<itemtitle identifier="ITEM-0D7CC0D2-F0A8-1672-0E0E-E216C9F0FFAB">
+System design example: Solo bus
+</itemtitle>
+<itemtitle identifier="ITEM-4DB5A47E-FBB6-0F8F-93EB-F1E64DA3B69B">
+Solo bus: Kneeling
+</itemtitle>
+<itemtitle identifier="ITEM-90E86A20-4840-DFD0-A574-F69FCF1D5D32">
+Freddie ...
+</itemtitle>
+</itemtitles>

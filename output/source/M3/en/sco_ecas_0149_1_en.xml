@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0149_1.swf" language="en">
+<tf desc="mc" ref="1" fs="13" x="396.85" y="156.5" wi="278.05" he="53">
+After "delete diagnostic memory" all previously displayed faults are deleted and the diagnostic memory is empty.</tf>
+<tf desc="mc" ref="2" fs="13" x="396.85" y="222.5" wi="286.05" he="41">
+After "Refresh" all currently detectable faults have a red background.</tf>
+<tf desc="mc" ref="3" fs="13" x="396.85" y="271.5" wi="293.05" he="42">
+After "Refresh" all corrected and currently not existing faults have a blue background.</tf>
+<tf desc="mc" ref="4" fs="13" x="396.85" y="321.5" wi="284.15" he="21.5">
+After "Refresh" all corrected faults are removed.</tf>
+<tf desc="mc" ref="5" fs="13" x="396.85" y="358.5" wi="278.05" he="43">
+Faults with a blue background are corrected and can be removed.</tf>
+<tf desc="mc" ref="21" fs="13" x="365.85" y="45" wi="325" he="55">
+Using the ECAS diagnostic software the faults which have been stored in the ECU can be readout and displayed as a list.</tf>
+<tf desc="mc" ref="22" fs="13" x="365.85" y="105" wi="301" he="41">
+Which statements regarding the functions provided by this dialog window are correct?</tf>
+<tf desc="mc" ref="23" fs="12" x="365.5" y="414.5" wi="312.05" he="34">
+Please mark the two correct statements
+and confirm with</tf>
+<tf desc="mc" ref="24" fs="13" x="364.25" y="460.5" wi="59.95" he="20">
+[ Ready ]</tf>
+<tf desc="mc" ref="fb1" fs="13" x="1008.45" y="-21.15" wi="349" he="23">
+That´s right! You marked the two correct statements.</tf>
+<tf desc="mc" ref="fb2" fs="13" x="1008.45" y="11.85" wi="297" he="56">
+This is not always the case. If a still existing fault has been recognized, the fault is displayed again, even if "Delete diagnostic memory" has been clicked.</tf>
+<tf desc="mc" ref="fb3" fs="13" x="1008.45" y="79.85" wi="297" he="41">
+This statement ist true: currently detected faults have always a red background, even after "Refresh".</tf>
+<tf desc="mc" ref="fb4" fs="13" x="1008.45" y="129.85" wi="299" he="56">
+This statement ist true: after "Refresh" the faults which have not been recognized again have a blue background.</tf>
+<tf desc="mc" ref="fb5" fs="13" x="1008.45" y="199.85" wi="257" he="41">
+That´s not true: after "Refresh" all corrected faults have a blue background.</tf>
+<tf desc="mc" ref="fb6" fs="13" x="1008.45" y="249.85" wi="278" he="59.95">
+That´s not correct. It´s possible, that a fault is still existing but currently not detectable, for instance a loose contact.</tf>
+</textfields>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0059_1.swf" language="en">
+<tf desc="mc" ref="2" fs="13" x="159.45" y="364" wi="163.05" he="21">
+Height limitation</tf>
+<tf desc="mc" ref="7" fs="12" x="128.5" y="186.15" wi="101.5" he="20.8">
+Upper level</tf>
+<tf desc="mc" ref="9" fs="12" x="556.5" y="202.15" wi="102.75" he="19.9">
+Lower level</tf>
+<tf desc="mc" ref="21" fs="13" x="187.45" y="396" wi="184.5" he="52">
+The upper and the lower level are defined when calibrating the height sensors.</tf>
+<tf desc="mc" ref="22" fs="13" x="187.45" y="461" wi="197.05" he="40">
+The distances to the mechanical stops can be freely selected.</tf>
+</textfields>

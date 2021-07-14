@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0043_1.swf" language="en">
+<tf desc="mc" ref="4" fs="13" x="139" y="199" wi="145" he="56">
+Pressure sensor for measuring the bellows pressure</tf>
+<tf desc="mc" ref="5" fs="13" x="340" y="199" wi="170" he="54">
+Lowering of the lifting axle when reaching a certain bellows pressure</tf>
+<tf desc="mc" ref="6" fs="13" x="553" y="199" wi="150.05" he="57.95">
+To calibrate the pressure sensor the bellows are vented ....</tf>
+<tf desc="mc" ref="8" fs="13" x="553" y="319" wi="160.05" he="70">
+... and the resulting count value is stored in the ECU as 0 bar.</tf>
+</textfields>

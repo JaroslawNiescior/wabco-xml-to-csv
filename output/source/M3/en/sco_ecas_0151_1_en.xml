@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0151_1.swf" language="en">
+<tf desc="mc" ref="1" fs="12" x="177" y="106" wi="180" he="225">
+By the way, because they forgot to mention it here: during diagnosis the remote-control unit cannot be used. Raising and lowering works only using the software.
+
+And with the software you can check, whether the remote-control unit is alright.
+
+Even though it doesn´t work during this time, as I said before ...</tf>
+</textfields>

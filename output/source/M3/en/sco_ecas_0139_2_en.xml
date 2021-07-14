@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0139_2.swf" language="en">
+<tf desc="mc" ref="7" fs="13" x="390" y="114" wi="216.05" he="35">
+Before raising:
+Sufficient free space above?
+</tf>
+<tf desc="mc" ref="8" fs="13" x="390" y="261" wi="213.05" he="35">
+Before lowering:
+Sufficient free space below?
+</tf>
+<tf desc="mc" ref="9" fs="13" x="390" y="410" wi="252.05" he="35">
+Before one-sided raising and lowering:
+Sufficient free space sidewise?
+</tf>
+</textfields>

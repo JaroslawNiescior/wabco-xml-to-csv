@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<audios file="sco_ecas_0062_1.swf" language="en">
+<au ref="1">
+To increase the clearance of the wheels of a raised lifting axle, ECAS is able to automatically increase the driving level as long as the lifting axle is raised.
+</au>
+<au ref="2">
+The amount of this so called  "offset point adjustment" is specified by parameterizing.
+The offset point adjustment is also referred to as "lifting axle offset".
+</au>
+</audios>

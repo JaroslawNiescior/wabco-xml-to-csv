@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<audios file="sco_ecas_0068_1.swf" language="en">
+<au ref="1">
+During standby operation the trailer is uncoupled from towing vehicle. ECAS has the last reference level stored, when the ignition has been switched off, and continues to regulate this level.
+</au>
+<au ref="2">
+The preconditions of this standby function are separate trailer batteries and sufficient volume of compressed air. This way a standby operation can be maintained for more than 60 hours.
+</au>
+</audios>

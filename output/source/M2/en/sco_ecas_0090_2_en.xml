@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0090_2.swf" language="en">
+<tf desc="mc" ref="2" fs="13" x="167.45" y="411" wi="123" he="18.5">
+Partial air variant
+</tf>
+<tf desc="mc" ref="3" fs="13" x="362.45" y="411" wi="123" he="18.5">
+Full air variant
+</tf>
+</textfields>

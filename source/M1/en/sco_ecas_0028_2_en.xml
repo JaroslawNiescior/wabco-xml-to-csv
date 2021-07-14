@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0028_2.swf" language="en">
+<tf desc="mc" ref="3" fs="12" x="245.5" y="43.15" wi="71" he="17.7">
+Parameter
+</tf>
+<tf desc="mc" ref="4" fs="12" x="245.5" y="63.15" wi="71" he="17.7">
+Value
+</tf>
+<tf desc="mc" ref="5" fs="12" x="245.5" y="83.15" wi="71" he="17.7">
+Unit
+</tf>
+<tf desc="mc" ref="11" fs="13" x="333" y="249.5" wi="198.05" he="45">
+1 height sensor on the rear axle corresponds to bit value 1
+</tf>
+<tf desc="mc" ref="13" fs="13" x="318" y="306.5" wi="213.05" he="45.95">
+2 height sensors on the rear axle correspond to bit value 0
+</tf>
+<tf desc="mc" ref="15" fs="13" x="514" y="222" wi="90" he="22">
+Example bit 4:
+</tf>
+<tf desc="mc" ref="18" fs="13" x="621" y="108.15" wi="30" he="18.5">
+Bit
+</tf>
+<tf desc="mc" ref="19" fs="13" x="271" y="129" wi="185.05" he="26">
+Example: Option parameter 1:
+</tf>
+<tf desc="mc" ref="21" fs="13" x="271" y="421" wi="274.05" he="35">
+Option parameters combine up to 8 single values in one byte value.
+</tf>
+</textfields>

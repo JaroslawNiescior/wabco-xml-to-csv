@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0143_2.swf" language="en">
+<tf desc="mc" ref="2" fs="13" x="157.45" y="442" wi="289.5" he="45">
+After connecting the ECAS ECU the stored data are automatically read and displayed.</tf>
+</textfields>

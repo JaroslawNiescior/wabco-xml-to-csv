@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0157_1.swf" language="en">
+<tf desc="mc" ref="1" fs="13" x="349.55" y="164" wi="318.45" he="22">
+By the used variant of the ECAS diagnostic software</tf>
+<tf desc="mc" ref="2" fs="13" x="349.5" y="204" wi="278.05" he="22">
+By the current parameterization</tf>
+<tf desc="mc" ref="3" fs="13" x="349.5" y="244" wi="292.05" he="22">
+By the specific hardware of the connected ECAS ECU</tf>
+<tf desc="mc" ref="4" fs="13" x="349.5" y="284" wi="281.1" he="21">
+By the number of installed height sensors</tf>
+<tf desc="mc" ref="8" fs="12" x="318.5" y="340.5" wi="206.05" he="19">
+Confirm your selection with</tf>
+<tf desc="mc" ref="10" fs="13" x="317.25" y="368.5" wi="61.95" he="22">
+[ Ready ]</tf>
+<tf desc="mc" ref="21" fs="13" x="318.85" y="66" wi="296.15" he="69">
+To calibrate the height sensors, the two calibration types "Calibration only for standard level" and "Three calibration levels" are provided. Where is the calibration type defined?</tf>
+<tf desc="mc" ref="fb1" fs="13" x="985.45" y="79.85" wi="276" he="41">
+No, different variants of the ECAS diagnostic software regarding this are not provided.</tf>
+<tf desc="mc" ref="fb2" fs="13" x="985.45" y="146.85" wi="313" he="36">
+The calibration type is defined by parameterization, using Bit 6 of the option parameter 1.</tf>
+<tf desc="mc" ref="fb3" fs="13" x="988.45" y="194.85" wi="331" he="21">
+No, the hardware of the ECU has no effect on this.</tf>
+<tf desc="mc" ref="fb4" fs="13" x="986.45" y="232.85" wi="349" he="23">
+No, the number of height sensors has nothing to do with that.</tf>
+<tf desc="mc" ref="fb5" fs="13" x="985.45" y="-1.15" wi="333" he="36">
+Right, this is defined using Bit 6 of the option parameter 1.</tf>
+</textfields>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0005_1.swf" language="en">
+<tf desc="mc" ref="1" fs="13" x="40.5" y="55.5" wi="251.05" he="25">
+Steel suspension</tf>
+<tf desc="mc" ref="4" fs="13" x="371.45" y="55.5" wi="231.05" he="25">
+Air suspension</tf>
+<tf desc="mc" ref="6" fs="13" x="370.45" y="281" wi="185.05" he="21.95">
+Advantages:</tf>
+<tf desc="mc" ref="21" fs="13" x="400.45" y="308" wi="267.05" he="51.5">
+Enhancement of suspension: cargo, vehicle and road surface are protected</tf>
+<tf desc="mc" ref="22" fs="13" x="400.45" y="354" wi="290.5" he="38">
+Always the same spring travel due to the constant driving level</tf>
+<tf desc="mc" ref="23" fs="13" x="400.45" y="401" wi="296.5" he="22">
+Improvement of steering and braking capabilities</tf>
+<tf desc="mc" ref="24" fs="13" x="400.45" y="431" wi="301.5" he="20">
+Adjustment of the load platform to the ramp height</tf>
+<tf desc="mc" ref="25" fs="13" x="400.45" y="461" wi="282.1" he="39">
+Keeps the vehicle height constant at desired level</tf>
+<obj desc="mc" ref="12" x="373.45" y="358" wi="10" he="10"/>
+</textfields>

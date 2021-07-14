@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0017_1.swf" language="en">
+<tf desc="mc" ref="2" fs="13" x="106.45" y="121" wi="102" he="18.5">
+Level
+</tf>
+<tf desc="mc" ref="3" fs="13" x="259.45" y="121" wi="156.05" he="18.5">
+Reference value tolerance range
+</tf>
+<tf desc="mc" ref="4" fs="13" x="563.5" y="180.75" wi="111" he="18.5">
+Reference level
+</tf>
+<tf desc="mc" ref="5" fs="13" x="563.5" y="344.75" wi="111" he="18.5">
+Starting level
+</tf>
+<tf desc="mc" ref="6" fs="13" x="563.5" y="369.75" wi="125.05" he="21">
+ECAS solenoid valve
+</tf>
+<tf desc="mc" ref="7" fs="13" x="563.5" y="407.75" wi="65.05" he="21">
+Time in s
+</tf>
+<tf desc="mc" ref="8" fs="13" x="49" y="366.75" wi="52" he="19.95">
+ON
+</tf>
+<tf desc="mc" ref="9" fs="13" x="43" y="392" wi="58" he="18.5">
+OFF
+</tf>
+<tf desc="mc" ref="10" fs="13" x="487.45" y="121" wi="115" he="18.5">
+Overshooting
+</tf>
+</textfields>

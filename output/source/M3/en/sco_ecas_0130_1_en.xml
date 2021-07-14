@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0130_1.swf" language="en">
+<tf desc="mc" ref="1" fs="13" x="269.5" y="145" wi="327.1" he="18.5">
+The ECAS ECU detects a minor fault.</tf>
+<tf desc="mc" ref="2" fs="13" x="269.5" y="185" wi="306.1" he="20">
+The ECAS ECU detects a severe fault.</tf>
+<tf desc="mc" ref="3" fs="13" x="269.5" y="225" wi="313.1" he="20">
+The trailer superstructure is on driving level.</tf>
+<tf desc="mc" ref="4" fs="13" x="269.5" y="265" wi="372.1" he="20.95">
+The trailer superstructure is outside the driving level.</tf>
+<tf desc="mc" ref="8" fs="12" x="238.5" y="318.5" wi="206.05" he="19">
+Confirm your selection with</tf>
+<tf desc="mc" ref="10" fs="13" x="237.25" y="355.5" wi="61.95" he="22">
+[ Ready ]</tf>
+<tf desc="mc" ref="21" fs="13" x="238.85" y="76" wi="323.15" he="38">
+What does it mean, when after switching the ignition on the ECAS signal lamp shows steady light?</tf>
+<tf desc="mc" ref="fb1" fs="13" x="992.45" y="84.85" wi="281" he="46">
+That´s wrong. Minor as well as severe faults are indicated by flashing.</tf>
+<tf desc="mc" ref="fb3" fs="13" x="992.45" y="161.85" wi="282" he="51.5">
+No, that would be disadvantageous, because the ECAS signal lamp would be always switched on during driving.</tf>
+<tf desc="mc" ref="fb4" fs="13" x="992.45" y="270.85" wi="332" he="43">
+On the trailer the steady light of the ECAS signal lamp means, that the superstructure is not on driving level.</tf>
+<tf desc="mc" ref="fb5" fs="13" x="990.45" y="3.85" wi="313" he="52">
+Right, on the trailer the steady light of the ECAS signal lamp means, that the superstructure is not on driving level.</tf>
+</textfields>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0005_2.swf" language="en">
+<tf desc="mc" ref="2" fs="13" x="160.45" y="334" wi="149.05" he="24">
+Only with air suspension:
+</tf>
+<tf desc="mc" ref="21" fs="13" x="188.45" y="368" wi="304.1" he="21.95">
+Raising and lowering of lifting axles
+</tf>
+<tf desc="mc" ref="22" fs="13" x="188.45" y="398" wi="304.1" he="21">
+Traction help
+</tf>
+</textfields>

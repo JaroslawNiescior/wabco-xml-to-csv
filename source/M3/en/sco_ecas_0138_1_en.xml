@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0138_1.swf" language="en">
+<tf desc="mc" ref="6" fs="13" x="419.75" y="430.55" wi="253.05" he="42.95">
+Diagnostic Interface USB
+446 301 022 0
+</tf>
+<tf desc="mc" ref="8" fs="13" x="133.75" y="430.55" wi="253.05" he="42.95">
+Diagnostic Interface serial
+446 301 021 0
+</tf>
+</textfields>

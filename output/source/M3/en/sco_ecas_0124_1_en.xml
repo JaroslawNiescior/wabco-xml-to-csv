@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0124_1.swf" language="en">
+<tf desc="mc" ref="3" fs="36" x="165.5" y="107.5" wi="404" he="86.5">
+ECAS diagnosis
+and calibration</tf>
+</textfields>

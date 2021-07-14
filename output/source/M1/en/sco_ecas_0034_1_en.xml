@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0034_1.swf" language="en">
+<tf desc="mc" ref="1" fs="13" x="249.85" y="163.5" wi="318.15" he="37.5">
+The terms "counts" and "timer ticks" mean the same. They are digital units in the range from 4 to 255.</tf>
+<tf desc="mc" ref="2" fs="13" x="249.85" y="217.5" wi="351.15" he="37.5">
+ECAS ECUs with 8-bit processing convert the input signals of the height sensors to so called counts.</tf>
+<tf desc="mc" ref="3" fs="13" x="249.85" y="271.5" wi="313.15" he="40.5">
+ECAS ECUs with 16-bit processing convert the input signals of the height sensors to so called timer-ticks.</tf>
+<tf desc="mc" ref="4" fs="13" x="249.85" y="326.5" wi="320.15" he="36.5">
+Whether the ECU uses counts or timer ticks depends on the signal of the connected height sensor.</tf>
+<tf desc="mc" ref="8" fs="12" x="218.5" y="390.5" wi="163.05" he="22">
+Confirm with</tf>
+<tf desc="mc" ref="10" fs="13" x="217.25" y="427.5" wi="61.95" he="24">
+[ Ready ]</tf>
+<tf desc="mc" ref="21" fs="13" x="218.85" y="55" wi="356.95" he="45">
+Depending on the ECAS ECU, the signals of the height sensors are converted to counts or timer ticks.</tf>
+<tf desc="mc" ref="22" fs="13" x="218.85" y="115" wi="268.95" he="23">
+Please mark all right statements:</tf>
+<tf desc="mc" ref="fb1" fs="13" x="1002.45" y="36.8" wi="453" he="68">
+This statement is wrong. In contrast to counts which are 8-bit values, timer ticks are 16-bit values in the range from 255 to 65.535. Timer ticks are used starting with newer 16-bit ECAS ECUs.</tf>
+<tf desc="mc" ref="fb2" fs="13" x="1008.45" y="101.85" wi="349" he="23">
+This statement is correct, indications in counts are 8-bit values.</tf>
+<tf desc="mc" ref="fb3" fs="13" x="1009.45" y="129.85" wi="274" he="44">
+This statement is correct, indications in timer ticks are 16-bit values.</tf>
+<tf desc="mc" ref="fb4" fs="13" x="998.45" y="189.85" wi="385" he="58">
+That´s wrong. Conversion to counts or timer ticks is done by the ECU, depending on the actual ECU variant.</tf>
+<tf desc="mc" ref="fb5" fs="13" x="999.45" y="-48.15" wi="277" he="44">
+Right, you understood the meaning of the terms "counts" and "timer ticks".</tf>
+</textfields>

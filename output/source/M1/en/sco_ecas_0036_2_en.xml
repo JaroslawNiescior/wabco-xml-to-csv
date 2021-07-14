@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0036_2.swf" language="en">
+<tf desc="mc" ref="7" fs="13" x="504" y="247.5" wi="192.05" he="121">
+At first the driving level specified by the vehicle manufacturer is achieved using the diagnostic software.
+The resulting count value is stored as driving level in the ECU.
+</tf>
+<tf desc="mc" ref="8" fs="13" x="504" y="431.5" wi="174" he="82">
+In the same way the upper and the lower level are stored as count values in the ECU.
+</tf>
+</textfields>

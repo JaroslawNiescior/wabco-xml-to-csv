@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0028_1.swf" language="en">
+<tf desc="mc" ref="3" fs="13" x="63.5" y="128" wi="59" he="22">
+1 byte</tf>
+<tf desc="mc" ref="4" fs="13" x="63.5" y="268" wi="59" he="22">
+1 byte</tf>
+<tf desc="mc" ref="5" fs="12" x="285.5" y="43.15" wi="70.95" he="17.7">
+Parameter</tf>
+<tf desc="mc" ref="6" fs="12" x="285.5" y="63.15" wi="70.95" he="17.7">
+Value</tf>
+<tf desc="mc" ref="7" fs="12" x="285.5" y="83.1" wi="70.95" he="17.7">
+Unit</tf>
+<tf desc="mc" ref="9" fs="13" x="313" y="152" wi="128.05" he="25">
+Option parameters</tf>
+<tf desc="mc" ref="11" fs="13" x="313" y="269" wi="128.05" he="25">
+Value parameters</tf>
+<tf desc="mc" ref="12" fs="13" x="354.45" y="314" wi="226.05" he="39">
+1 byte (= 8 bit) is able to store a value between 0 and 255:</tf>
+<tf desc="mc" ref="14" fs="13" x="378.45" y="364" wi="285.5" he="38">
+for instance a vehicle speed, expressed directly in km/h: a byte value of 60 corresponds to 60 km/h</tf>
+<tf desc="mc" ref="16" fs="13" x="378.45" y="409" wi="293.1" he="51.5">
+or a proportionally transformed pressure value, whereas one unit corresponds to 1/16 bar: in this case a byte value of 60 corresponds to 3,75 bar.</tf>
+<obj desc="mc" ref="15" x="357" y="413" wi="10" he="10"/>
+</textfields>

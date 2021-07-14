@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0001_1.swf" language="en">
+<tf desc="mc" ref="3" fs="36" x="32.5" y="123.5" wi="536.85" he="44.25">
+ECAS and ELM Basics</tf>
+</textfields>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0136_1.swf" language="en">
+<tf desc="mc" ref="6" fs="13" x="157.45" y="279.05" wi="390.1" he="18.5">
+Hardware requirements of the PC diagnosis:
+</tf>
+<tf desc="mc" ref="21" fs="13" x="187.45" y="309.05" wi="386.1" he="19.95">
+Pentium PC or higher (a notebook is recommended)
+</tf>
+<tf desc="mc" ref="22" fs="13" x="187.45" y="337.05" wi="386.1" he="18.5">
+64 MB RAM at the minimum
+</tf>
+<tf desc="mc" ref="23" fs="13" x="187.45" y="365.05" wi="384.1" he="18.5">
+ca. 30 MB free hard disk memory
+</tf>
+<tf desc="mc" ref="24" fs="13" x="187.45" y="393.05" wi="383.1" he="20">
+Color display 1024x768 Pixels at the minimum
+</tf>
+<tf desc="mc" ref="25" fs="13" x="187.45" y="421.05" wi="384.1" he="19">
+a free COM interface (9 Pin) resp. USB connection
+</tf>
+<tf desc="mc" ref="26" fs="13" x="187.45" y="448.05" wi="295.05" he="35">
+Operating system WIN 9x or Windows NT 4.0 / 2000 / XP or compatible successor
+</tf>
+</textfields>

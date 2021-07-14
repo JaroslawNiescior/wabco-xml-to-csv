@@ -1,0 +1,397 @@
+ID;Slide Nr;Screen Nr;EN_Text
+1;47;1;ECAS: Functions,components, systems
+2;48;1;"Hi, I´m Freddie.Sorry, I don´t want to be the backseat driver here, but why ""functions""? I guess it has only one function, even the air suspension.But I´m shure, we will soon get to know it ..."
+3;49;1;What you should know at the end of this module ...
+3;49;1;The main function of ECAS and which special part the driving level I plays in this context
+3;49;1;The system functions ECAS can fulfill beyond a pure air suspension
+3;49;1;Which ECAS components are required for that
+3;49;1;The configurations and the modes of operation of some typical ECAS systems, on motor vehicle, bus and trailer
+3;49;1;The main operation steps of the ECAS remote-control unit
+4;50;1;System functions of ECAS
+5;51;1;Defined by
+5;51;1;Reference level
+5;51;1;Calibration
+5;51;1;Parameterization
+5;51;1;Remote-control unit
+6;52;1;Driving level I
+6;52;1;Adjusted during calibration of the height sensors according to the specifications of the vehicle manufacturer
+6;52;1;Addressed using the remote-control unit, or automatically at a parameterized vehicle speed
+7;53;1;Driving levels II and III:
+7;53;1;Driving level I
+7;53;1;Driving level II
+7;53;1;e.g. with 70 km/h
+7;53;1;Specified in counts, as difference to driving level I
+7;53;1;e.g. for higher speeds, to save fuel
+7;53;1;Triggered via a switch, using the remote-control unit, or in the case of driving level II by a parameterized speed
+8;54;1;Driving level means the actual level during driving.
+8;54;1;The height of the driving level is specified by the vehicle manufacturer, as the reference level for optimal driving characteristics.
+8;54;1;The driving level I is achieved during calibration and is stored in the ECU as a count value.
+8;54;1;The driving levels II and II are specified by parameterization, as difference values to driving level I.
+8;54;1;A lower driving level II may be addressed at higher speeds to save fuel.
+8;54;1;Confirm your selection with
+8;54;1;[ Ready ]
+8;54;1;Mark the right statements about the driving levels I, II and III used with ECAS.
+8;54;1;That´s wrong. Driving levels are desired or reference levels during driving. The actual level may deviate more or less from it, e.g. caused by a bumpy road.
+8;54;1;This statement is true, that´s the characteristic of driving level I.
+8;54;1;That´s true. The driving level specified by the manufacturer has to be stored in the ECU when calibrating the height sensors.
+8;54;1;This statement is true. The driving levels II and III are always specified in relationship to driving level I.
+8;54;1;That´s correct. In many cases the driving level II is addressed automatically when exceeding a certain speed threshold.
+8;54;1;Exactly, you checked the right statements.
+9;55;1;Unloading level:
+9;55;1;Driving level I
+9;55;1;Unloading level
+9;55;1;Specified in counts, as difference to driving level I
+9;55;1;Advantageous for loading and unloading
+9;55;1;Automatically or manually triggered
+9;55;1;In the case of dump vehicles, hard bumping after quick unloading can be avoided to protect the stops.
+10;56;1;Memory levels:
+10;56;1;e.g. memory level 1
+10;56;1;Adjustable and selectable by the driver at any time
+10;56;1;Remain stored in the ECU
+11;57;1;Using a memory level the height of a ramp can be stored and later on addressed again on the tip of a button.
+11;57;1;On dump vehicles, an appropriate unloading level may be automatically achieved, to protect the stops when load material is quickly spilled.
+11;57;1;The unloading level is specified by parameterizing, whereas the memory levels are defined using the ECAS remote-control unit.
+11;57;1;"A so called unloading level is ""forgotten"", when the ignition is switched off, whereas the memory levels are permanently stored in the ECU."
+11;57;1;Confirm your selection with
+11;57;1;[ Ready ]
+11;57;1;Mark the correct statements regarding the ECAS unloading level and the memory levels.
+11;57;1;That´s correct, exactly for this purpose the memory levels provided by ECAS are mainly used.
+11;57;1;This statement is right. Raising the dump body may actuate a switch to automatically lower it to a deeper unloading level. Even when load material is spilled quickly, a hard bumping is avoided.
+11;57;1;This statement is correct: Only the memory levels are changable by the driver.
+11;57;1;That´s not the case. Even the unloading level is permanently stored in the ECU like all other ECAS parameters.
+11;57;1;Exactly, you detected all appropriate statements.
+12;58;1;OK, this means, that the unloading level could only be changed in the workshop.Und with memory levels I have nothing to do, because they are adjusted by the driver.
+13;59;1;Height limitation
+13;59;1;Upper level
+13;59;1;Lower level
+13;59;1;The upper and the lower level are defined when calibrating the height sensors.
+13;59;1;The distances to the mechanical stops can be freely selected.
+14;60;1;Wheel load on the left
+14;60;1;Wheel load on the right
+14;60;1;Lateral stabilisation by implementing separate control circuits on the left and the right side of the rear axle
+15;61;1;A lifting axle control is in ECAS integrated:
+15;61;1;The lifting axle is lowered automatically when the permissible axle load of the main axle is exceeded or when the ignition is switched off.
+15;61;1;The lifting axle is raised automatically either triggered by unloading, via a switch or using the remote-control unit.
+16;61;2;Automatic lowering of the lifting axle:
+16;61;2;Lowering of the lifting axle independent of the load condition
+16;61;2;Using a switch or the remote-control unit
+17;62;1;Clearance of lifting axle
+17;62;1;Offset point adjustment
+17;62;1;Offset point adjustment:
+17;62;1;Increasing the driving level for better clearance of the lifting axle
+17;62;1;"Also called ""lifting axle offset"""
+18;63;1;Axle load
+18;63;1;Traction
+18;63;1;Traction help:
+18;63;1;The traction of the driving axle is increased due to raising the lifting axle
+18;63;1;Activation by using a switch or the ECAS remote-control unit
+19;64;1;I see, the ECAS traction help works the same way as on my old BMW.In winter when we have black ice I usually load a sand bag into my car´s trunk, to get more load onto the rear wheels.With ECAS it´s a little bit easier.
+20;65;1;Overload protection:
+20;65;1;When overloaded, the superstructure is automatically lowered onto the lower stops.
+20;65;1;Activiation via parameterization
+21;66;1;Reference level when unladen
+21;66;1;Reference level when loaded
+21;66;1;Tyre deflection compensating:
+21;66;1;The ride clearance is increased by the amount of the tyre deflection.
+21;66;1;Thus the height of the shipping space can be increased.
+22;67;1;When the vehicle is unladen the ride clearance is greater than when loaded.
+22;67;1;This function enshures that the ground clearance is sufficient even when the tyre pressure is low.
+22;67;1;Thus the shipping space of a trailer can be a bit larger as it could be without this ECAS function.
+22;67;1;Due to this function the overall height of the loaded vehicle is smaller than when unladen.
+22;67;1;Confirm your selection with
+22;67;1;[ Ready ]
+22;67;1;"Please mark the right statements about the ECAS function ""tyre deflection compensating""."
+22;67;1;This statement is true. The ride clearance is increased by the same value as the tyres are deflected due to the load weight.
+22;67;1;This statement is wrong. The tyre deflection compensating serves the aim to increase the height of the shipping space.
+22;67;1;This is correct. If the vehicle is unladen the ride clearance is kept very short to enable an increased overall height.
+22;67;1;That´s not true. The overall height remains the same regardless of the load weight.
+22;67;1;Exactly, you marked all right statements.
+23;68;1;Standby function
+23;68;1;Battery box on the trailer
+23;68;1;When the ignition is switched off ECAS continues to regulate the last desired level.
+23;68;1;Preconditions: batteries in the trailer and sufficient air supply
+23;68;1;More than 60 hours standby operation can be achieved.
+24;69;1;Kneeling:
+24;69;1;The entrance side is lowered to facilitate getting on and off the bus.
+25;70;1;That´s a fine thing, this kneeling by means of ECAS. For wheelchair drivers and old people a stair can get a real problem.
+26;71;1;The ECAS components
+27;72;1;ECAS ECU
+28;73;1;ECAS remote-control unit
+28;73;1;ECAS solenoid valves
+28;73;1;ECAS warning lamp
+28;73;1;PC diagnosis
+28;73;1;Pressure sensors
+28;73;1;Height sensors
+28;73;1;Parameter data
+28;73;1;Fault memory
+28;73;1;ECAS ECU
+28;73;1;The ECAS ECU performs numerous tasks.
+29;73;2;ECAS ECU
+29;73;2;Microprocessor
+29;73;2;Programin theROM
+29;73;2;Parametersin the EEPROM
+29;73;2;PC diagnosis
+30;74;1;The integrated computer calculates on the basis of the input signals and the stored parameter values how the connected ECAS solenoid valves have to be actuated.
+30;74;1;The program executed by the ECAS ECU is stored into the ECU using the PC diagnosis and can also be changed this way.
+30;74;1;The calculations of the ECU are performed using parameter values which are unchangeably stored in a ROM module.
+30;74;1;The ECAS ECU allows to access the stored messages and parameters by means of PC diganosis.
+30;74;1;Confirm your selection with
+30;74;1;[ Ready ]
+30;74;1;Mark all right statements about the ECAS ECU.
+30;74;1;This statement is correct, it describes the main task of the ECAS ECU.
+30;74;1;That is wrong. The program is stored in a ROM module of the ECU and cannot be changed after delivery.
+30;74;1;This statement is wrong. The parameters are stored in a writable memory and can be changed any time by means of the PC diagnosis.
+30;74;1;That´s true. By means of PC diagnosis stored messages can be read and parameters can be changed.
+30;74;1;This is correct. You recognized the two right statements.
+31;75;1;Example: ECAS ECU for motor vehicle 4x2 (446 055 301 0)
+31;75;1;Example: 446 055 301 0 pin assignment
+31;75;1;What means CAN bus support?
+31;75;1;Terminal 15 (5 A fuse)
+31;75;1;CLOCK-line RCU
+31;75;1;L-line diagnosis
+31;75;1;K-line diagnosis
+31;75;1;Height sensor front
+31;75;1;Height sensor rear right
+31;75;1;2/2-way valve RA left
+31;75;1;2/2-way valve FA
+31;75;1;Data-line RCUor RAISE switch
+31;75;1;C3/D3 signal (speed)
+31;75;1;Warning lamp max. 2W
+31;75;1;Terminal 31 / RCU
+31;75;1;Height sensor ground
+31;75;1;Height sensor rear left
+31;75;1;2/2-way valve RA right
+31;75;1;Charge / vent valve
+31;75;1;Solenoid valve LSV function
+31;75;1;DL I / II switch RCUor LOWER switch
+31;75;1;Brake light switch
+31;75;1;Warning lamp traction help
+31;75;1;What means CAN bus support?
+31;75;1;The abbreviation CAN stands for Controller Area Network. The vehicle CAN bus networks the attached vehicle electronics via a jointly used cable connection. The serial data transmission is performed high speed.ECAS ECUs which support CAN bus are accordingly labelled. They are able to exchange air suspension data with other ECUs, for instance.
+32;76;1;ECAS ECU für trailers with EBS,opened  (446 055 066 0)
+32;76;1;ECAS ECU für trailers with ABS, installed  (446 055 065 0)
+32;76;1;ECAS ECU for trailers:
+32;76;1;Universally applicable
+32;76;1;Two variants: For ABS trailers or trailers with EBS
+33;76;2;ECAS ECU, connected to a VCS II ECU (Vario Compact ABS, 2nd generation)
+33;76;2;Jointly used diagnostic socket
+34;76;3;"""Water trap"""
+34;76;3;Important installation rules:
+34;76;3;Take notice of the TOP sign
+34;76;3;Two variants: for ABS trailers and trailers with EBS
+34;76;3;"Cable routing from below to top, or forming a ""water trap"""
+35;77;1;OK, I think we all can assume, that this sign is already known.I also don´t turn a parcel upside down, when I see such arrows!
+36;78;1;Height sensors
+37;79;1;"The ""conventional sensor"", installed"
+38;79;2;ECAS ECU
+38;79;2;counts
+38;79;2;The height sensor function cannot be tested using a voltage meter!
+39;80;1;Angle sensor with cross piece, dismounted ...
+39;80;1;... and installed
+40;80;2;The height sensor function cannot be tested using a voltage meter!
+41;81;1;The cross piece of the newer sensor is really handy. Thus I can mount the lever one way or another, just as needed.
+42;82;1;The parameterization of the sensor has to be changed.
+42;82;1;The lines of the sensor cable are wrongly connected and have to be swapped.
+42;82;1;The height sensor lever has to be installed rotated by 180 degrees to revers the armature movement.
+42;82;1;The sensor is defect and has to be substituted.
+42;82;1;This is OK so far.
+42;82;1;Please mark the right statement. After that click on
+42;82;1;[ Ready ]
+42;82;1;What has to be done, when during raising the superstructure the count values of a height sensor are decreasing?
+42;82;1;No, this is not possible.
+42;82;1;No, this way the problem is not solvable.
+42;82;1;During raising the superstructure the count values must increase. Thereto the lever of the height sensor has to be mounted the other way around.
+42;82;1;No, this cannot be the reason.
+42;82;1;"No, during raising the superstructure the count values must increase. Otherwise the ECU detects a so called ""plausibility error""."
+42;82;1;Exactly. During raising the superstructure also the count values must increase. Thereto the lever of the height sensor has to be mounted the other way around.
+43;83;1;ECAS solenoid valves
+44;84;1;3.9 bar
+44;84;1;3.1 bar
+44;84;1;ECAS rear axle valve for 2-point control: Separate control on the left and the right
+45;84;4;Using the slider you can repeat the process.
+46;85;1;For a 2-point control this rear axle valve has to be installed on each side of the rear axle.
+46;85;1;Using such a rear axle valve two air suspension bellows can be controlled independently of each other.
+46;85;1;The rear axle valve contains a central solenoid valve which is also used to pressurize or vent a connected front axle valve.
+46;85;1;To vent the air suspension bellows all internal solenoids are switched off.
+46;85;1;Please confirm with
+46;85;1;[ Ready ]
+46;85;1;Which statements about the mode of operation of the ECAS rear axle valve for 2-point control are correct?
+46;85;1;This statement is wrong. Such a rear axle valve can serve both sides of the rear axle. Therefore one instance is sufficient.
+46;85;1;This is correct. It's internally equipped with two solenoid valves to be able to control each air suspension bellow separately.
+46;85;1;This statement is true. To do so, the front axle valve is connected to port 21 of the valve.
+46;85;1;That's wrong. When all solenoid valves are switched off, the lines to the bellows are closed. For venting, only the central valve is switched off and the valve of each bellow is actuated.
+46;85;1;Right, you recognized the appropriate statements.
+47;86;1;ECAS valve block for rear axle and lifting axle
+47;86;1;Separate control of the air suspension bellows of the main axle (2-point control)
+47;86;1;The supporting bellows of the lowered lifting axle are vented and pressurized as well.
+47;86;1;Pressurizing and venting the lifting bellow
+47;86;1;During raising the lifting axle the supporting bellows are automatically vented.
+48;86;2;RA
+48;86;2;LA
+49;86;3;RA
+49;86;3;LA
+50;87;1;"""Wow, it´s pretty complex, this unit. Thank goodness it is delivered as a whole.So I no longer have to rack my brain about it´s internal control.Of course, at least I have to know what is does ..."
+51;88;1;The rear axle block as well as the lifting axle block have their own compressed air supply.
+51;88;1;The supporting bellows of the lifting axle and the bellows of the main axle are independently of each other pressurized and vented.
+51;88;1;By means of the lifting axle block it is controlled whether the supporting bellows of the lifting axle are pneumatically connected to the bellows of the main axle or separated.
+51;88;1;Due to the 2-point control the connected supporting bellows on the left and on the right side of the vehicle can be independently of each other pressurized and vented.
+51;88;1;Confirm your selection with
+51;88;1;[ Ready ]
+51;88;1;Which statements about the mode of operation of the ECAS valve block for rear axle and lifting axle are correct?
+51;88;1;This statement is wrong. The air supply is centrally controlled by a valve in the rear axle block.
+51;88;1;This statement is wrong. When the lifting axle is lowered the supporting bellows of the lifting axle and the bellows of the main axle are jointly controlled.
+51;88;1;This statement is correct. Depending on the control of the lifting axle block the supporting bellows of the lifting axle and the bellows of the main axle are pneumatically connected or separated.
+51;88;1;This is true. The left and the right side of this valve block can be separately controlled, only the lifting bellows on both sides are jointly pressurized or vented.
+51;88;1;Exactly, you marked the right statements.
+52;89;1;The ECAS remote-control unit
+53;90;1;Remote-control unit on motor vehicles
+53;90;1;Protective box on the trailer
+53;90;1;Functions:
+53;90;1;Raising and lowering of the chassis front and rear, either jointly or separately
+53;90;1;Raising and lowering the lifting axle
+53;90;1;Traction help
+53;90;1;Selecting from up to 3 driving levels
+53;90;1;Addressing a selected driving level
+53;90;1;Storing and addressing of memory levels
+54;90;2;Partial air variant
+54;90;2;Full air variant
+55;90;3;Move the mouse pointer over the buttons and the lamps of this full air variant of the ECAS remote-control unit.
+55;90;3;Indication lamp front axle:The light is on as long as the front axle is preselected using the button below.
+55;90;3;Indication lamp rear axle:The light is on as long as the rear axle is preselected using the button below.
+55;90;3;Indication lamp lifting axle:The light is on as long as the lifting axle is preselected using the button below.
+55;90;3;Preselect button front axle:A single push of the button preselects the front axle and the corresponding lamp comes on.Pushing the button again removes the selection and the lamp goes off.
+55;90;3;Preselect button rear axle:A single push of the button preselects the rear axle and the corresponding lamp comes on.Pushing the button again removes the selection and the lamp goes off.
+55;90;3;Preselect button lifting axle:A single push of the button preselects the lifting axle and the corresponding lamp comes on.Pushing the button again removes the selection and the lamp goes off.
+55;90;3;"M1 button for ""Memory level 1"":A previously stored level M1 is addressed."
+55;90;3;"M2 button for ""Memory level 2"":A previously stored level M2 is addressed."
+55;90;3;Driving level button
+55;90;3;RAISE buttonThe chassis is raised above the preselected axle(s).
+55;90;3;LOWER buttonThe chassis is lowered above the preselected axle(s).
+55;90;3;STOP buttonAll levelling control processes are stopped immediately and the present level in maintained.
+56;91;1;Please try to raise the rear chassis using the remote-control unit.
+56;91;1;Operating steps
+56;91;1;Preselect rear axlePush RAISE buttonUnselect rear axle
+57;91;2;Please try to lower the rear chassis using the remote-control unit.
+57;91;2;Operating steps
+57;91;2;Preselect rear axlePush LOWER buttonUnselect rear axle
+58;92;1;Please try to raise the whole chassis using the remote-control unit.
+58;92;1;Operating steps
+58;92;1;Preselect front axlePreselect rear axlePush RAISE buttonUnselect front axleUnselect rear axle
+59;92;2;Please try to lower the whole chassis using the remote-control unit.
+59;92;2;Operating steps
+59;92;2;Preselect front axlePreselect rear axlePush LOWER buttonUnselect front axleUnselect rear axle
+60;93;1;Please try to raise the lifting axle using the remote-control unit.
+60;93;1;Operating steps
+60;93;1;Preselect lifting axlePush RAISE buttonUnselect lifting axle
+61;93;2;Please try to lower the lifting axle using the remote-control unit.
+61;93;2;Operating steps
+61;93;2;Preselect lifting axlePush LOWER buttonUnselect lifting axle
+62;94;1;As I can see, next comes the traction help.If I remember rightly I have to raise the lifting axle to increase the load on the driving wheels ...
+63;95;1;Please activate the traction help using the remote-control unit.
+63;95;1;Operating steps
+63;95;1;Preselect lifting axlePush M1 buttonUnselect lifting axle
+64;96;1;Please activate the driving level I.
+64;96;1;Operating steps
+64;96;1;Preselect front axlePreselect rear axlePress and hold Driving level button Push M1 button simultaneouslyRelease both buttonsUnselect front axleUnselect rear axle
+65;97;1;Please address the current driving level using the remote-control unit.
+65;97;1;Operating steps
+65;97;1;Preselect front axlePreselect rear axlePress Driving level button Unselect front axleUnselect rear axle
+66;98;1;Please store the current level as the new memory level 1.
+66;98;1;Operating steps
+66;98;1;Preselect front axlePreselect rear axlePress and hold STOP button Push M1 button simultaneouslyRelease both buttonsUnselect front axleUnselect rear axle
+67;99;1;Please address the memory level 2.
+67;99;1;Operating steps
+67;99;1;Preselect front axlePreselect rear axlePush M2 buttonUnselect front axleUnselect rear axle
+68;100;1;No. As for my part I prefer to use the remote-control unit.Because I need always the full range of possibilities.
+69;101;1;Variant for drawbar trailers
+69;101;1;Variant for semitrailers without lifting axle
+69;101;1;Control box:
+69;101;1;Directly mountable on the longitudinal beam
+69;101;1;Compared to the remote-control unit it provides a reduced range of functions
+70;102;1;Standby operation when towing vehicle is uncoupled
+70;102;1;Open the battery box by touching it with the mouse pointer!
+70;102;1;The last reference level when the ignition is switched off is automatically maintained.
+71;103;1;ECAS systems
+72;104;1;ECAS control types depending on the number of sensors
+73;105;1;ECU
+73;105;1;Solenoid valvemain axle for 1-pointcontrol
+73;105;1;Height sensor
+73;105;1;1-point control:
+73;105;1;Both side are jointly controlled.
+73;105;1;A slant caused by uneven load distribution cannot be prevented.
+74;106;1;ECU
+74;106;1;Solenoid valvemain axle for 2-pointcontrol
+74;106;1;Height sensor
+74;106;1;Height sensor
+74;106;1;2-point control:
+74;106;1;Each side is separately controlled.
+74;106;1;No slant even when load is one-sided
+75;107;1;Solenoid valvemain axlefor 2-pointcontrol
+75;107;1;Height sensor
+75;107;1;Height sensor
+75;107;1;Solenoid valvlefront axlefor 1-pointcontrol
+75;107;1;Height sensor
+75;107;1;2-point control on the main axle
+75;107;1;plus 1-point control on the front axle
+75;107;1;ECU
+75;107;1;3-point control:
+76;108;1;When applying a 1-point control both sides of an axle are jointly controlled.
+76;108;1;When applying a 2-point control the main axle and the front axle are separately controlled.
+76;108;1;When applying a 2-point control two sides of an axle are separately controlled.
+76;108;1;When applying a 1-point control on the front axle and a 2-point control on the rear axle this is referred to as 3-point control.
+76;108;1;Confirm your selection with
+76;108;1;[ Ready ]
+76;108;1;Which statements about the different types of control applied by ECAS are correct?
+76;108;1;This statement ist true. When applying the 1-point control, both sides are equally pressurized or vented. On semitrailers this is the mostly applied control type.
+76;108;1;This is wrong. 2-point control means to control two sides of an axle separately.
+76;108;1;This statement is correct. When applying the 2-point control two sides are separately measured and controlled.
+76;108;1;This is true. This 3-point control is applied on motor vehicles and in drawbar trailers.
+76;108;1;You are right, you detected all appropriate statements.
+77;109;1;ECAS on the motor vehicle
+78;110;1;OK, I hope we are prepared now to see a whole ECAS system. After all I want to know how this all fits together ...
+79;111;1;FA
+79;111;1;RA
+80;112;1;FA
+80;112;1;RA
+81;113;1;Even before the load platform leaves the reference level ECAS starts to control, to work against the lowering caused by the load weight.
+81;113;1;The ECAS ECU detects via the height sensors on the front and rear axles, where the reference level has been exited.
+81;113;1;The supporting bellows on the front and the rear axle are always jointly pressurized to equally readjust the reference level.
+81;113;1;The supporting bellows on two sides of an axle with 2 height sensors can be separately pressurized. In this way the reference level can be apartly readjusted after loading.
+81;113;1;Confirm your selection with
+81;113;1;[ Ready ]
+81;113;1;A motor vehicle (4x2 full air) is loaded. Which of the following statements about the ECAS control processes during loading are correct?
+81;113;1;This statement is wrong. As long as none of the height sensors has detected that the reference level has been exited, no control is performed.
+81;113;1;This statement is correct. When having a 4x2 full air variant the front and the rear axle are equipped with height sensors to measure the actual level.
+81;113;1;This statement is wrong. The bellows of the front and the rear axle can be separately pressurized.
+81;113;1;This statement is true. On this axle a 2-point control is applied.
+81;113;1;Right, you marked the correct statement.
+82;114;1;FA
+82;114;1;RA
+83;115;1;ECAS on the trailer
+84;116;1;LA
+84;116;1;RA
+84;116;1;RA
+85;117;1;LA
+85;117;1;RA
+85;117;1;RA
+86;118;1;LA
+86;118;1;RA
+86;118;1;RA
+87;119;1;Pressurizing and venting the supporting and the lifting bellows is performed using a single valve block for the rear axle and the lifting axle.
+87;119;1;Before the lifting axle can be raised using the RAISE button of the ECAS remote-control unit both supporting bellows of the lifting have to be completely vented.
+87;119;1;When the lifting axle is raised, the pressure in the supporting bellows of the back axles remains the same, because the load weight is unchanged.
+87;119;1;For a fully automated lifting axle control, triggered by the load weight, a pressure sensor connected to the supporting bellows of the main axle is required.
+87;119;1;Confirm your selection with
+87;119;1;[ Ready ]
+87;119;1;This three-axle semitrailer is equipped with a lifting axle.Which of the following statements are correct?
+87;119;1;This statement is correct. The suspension bellows are pressurized or vented as well as the lifting axle is raised or lowered using this single valve block. When doing the latter, the supporting bellows of the lifting axle are pneumatically separated from those of the back axles.
+87;119;1;This statement is wrong. The supporting bellows of the lifting axle are simultaneously and automatically vented.
+87;119;1;This is wrong. The pressure in the supporting bellows of the back axles is increased, because the weight load is now distributed on 2 axles instead on 3. In addition the weight of the raised lifting axle is applied.
+87;119;1;This statement is correct. A fully automated lifting axle control is triggered be the pressure in the supporting bellows of the main axle.
+87;119;1;Right, you marked all correct statements.
+88;120;1;ECAS on the bus
+89;121;1;FA
+89;121;1;RA
+90;122;1;FA
+90;122;1;RA
+91;123;1;Now, that we are trough with ECAS devices and systems, we can proceed to the next module.But before I start with diagnosis, I owe it to myself to take a break.

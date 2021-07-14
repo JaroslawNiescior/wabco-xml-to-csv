@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0026_1.swf" language="en">
+<tf desc="mc" ref="4" fs="13" x="378.45" y="349" wi="281.05" he="23">
+Print system label:
+</tf>
+<tf desc="mc" ref="21" fs="13" x="408.45" y="379" wi="307.05" he="22">
+using a laser printer
+</tf>
+<tf desc="mc" ref="22" fs="13" x="408.45" y="402" wi="185.05" he="55">
+on the weatherproofed foil 
+e.g. the WABCO special foil order no. 899 200 922 4
+</tf>
+</textfields>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0142_1.swf" language="en">
+<tf desc="mc" ref="1" fs="13" x="189.85" y="160.5" wi="353.15" he="53.5">
+When the vehicle frame is positioned below or above driving level, the steering behavior and the brake characteristics are influenced.</tf>
+<tf desc="mc" ref="2" fs="13" x="189.85" y="229.5" wi="343.15" he="55.5">
+When the vehicle frame is positioned below driving level, the spring travel is decreased. Due to this the chassis and the frame may be damaged during driving.</tf>
+<tf desc="mc" ref="3" fs="13" x="189.85" y="299.5" wi="328.15" he="39.5">
+Du to the reduction of the spring travel the cargo may be damaged.</tf>
+<tf desc="mc" ref="4" fs="13" x="189.85" y="353.5" wi="358.15" he="35.5">
+Otherwise the supporting bellows could burst during driving, caused by resulting pressure peaks.</tf>
+<tf desc="mc" ref="8" fs="12" x="158.5" y="419.5" wi="224.05" he="22">
+Confirm your selection with</tf>
+<tf desc="mc" ref="10" fs="13" x="157.25" y="456.5" wi="61.95" he="24">
+[ Ready ]</tf>
+<tf desc="mc" ref="21" fs="13" x="158.85" y="77" wi="449.95" he="41">
+Before starting the driving level has to be achieved. Why?</tf>
+<tf desc="mc" ref="22" fs="13" x="158.85" y="119" wi="263.95" he="22">
+Please mark all appropriate statements:</tf>
+<tf desc="mc" ref="fb1" fs="13" x="1001.45" y="18.85" wi="409" he="39">
+This statement is true: The steering behavior and the brake characteristics are influenced by the distance between the axle and the superstructure.</tf>
+<tf desc="mc" ref="fb2" fs="13" x="1000.45" y="71.85" wi="364" he="35">
+This statement is true. Due to the reduced spring travel some parts of the vehicle may be damaged.</tf>
+<tf desc="mc" ref="fb3" fs="13" x="1001.45" y="124.85" wi="318" he="39">
+This statement is true. Due to the reduced spring travel even the cargo can be damaged.</tf>
+<tf desc="mc" ref="fb4" fs="13" x="1003.45" y="179.85" wi="332" he="35">
+This statement is wrong. Another level cannot cause so a pressure growth.</tf>
+<tf desc="mc" ref="fb5" fs="13" x="1002.45" y="-18.15" wi="313" he="24">
+Right, you marked the correct statements.</tf>
+</textfields>

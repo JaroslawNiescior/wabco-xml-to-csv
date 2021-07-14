@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0134_1.swf" language="en">
+<tf desc="mc" ref="1" fs="13" x="272.85" y="125.5" wi="359.15" he="36.5">
+The ECAS ECU starts to address a higher level. In doing so, the count values of the height sensor decrease.</tf>
+<tf desc="mc" ref="2" fs="13" x="272.85" y="179.5" wi="363.15" he="37.5">
+The ECAS ECU starts to address a higher level. In doing so, the count values of the height sensor increase.</tf>
+<tf desc="mc" ref="3" fs="13" x="272.85" y="233.5" wi="355.15" he="36.5">
+The ECAS ECU starts to address a higher level. In doing so, the count value of the height sensor remains the same.</tf>
+<tf desc="mc" ref="4" fs="13" x="272.85" y="287.5" wi="336.15" he="36.5">
+The ECU recieves no longer an electrical signal from a pressure sensor.</tf>
+<tf desc="mc" ref="8" fs="12" x="241.5" y="348.5" wi="224.05" he="22">
+Confirm your selection with</tf>
+<tf desc="mc" ref="10" fs="13" x="240.25" y="385.5" wi="61.95" he="24">
+[ Ready ]</tf>
+<tf desc="mc" ref="21" fs="13" x="241.85" y="77" wi="384.95" he="23">
+Please mark all the cases, where a plausibility error occured.</tf>
+<tf desc="mc" ref="fb1" fs="13" x="1002.45" y="36.8" wi="440" he="58">
+This is a typical plausibility error because during raising the count values have to be increased. The error can be caused by a wrongly mounted sensor lever. Or the bellow pressure is higher than the supply pressure whereby the superstructure is lowered.</tf>
+<tf desc="mc" ref="fb2" fs="13" x="1008.45" y="131.85" wi="260" he="40">
+This behavior is correct: during raising the count values are increasing.</tf>
+<tf desc="mc" ref="fb3" fs="13" x="1008.45" y="201.85" wi="357" he="53">
+This is a plausibility error because during raising the count values have to be increased. This error can occur, when the linkage of the height sensor is broken.</tf>
+<tf desc="mc" ref="fb4" fs="13" x="1003.45" y="273.85" wi="342" he="68.95">
+No, this fault is not included, because the ECU monitors and detects it directy. Plausibilitiy errors like a wrongly mounted sensor lever are only indirectly and during control processes detectable.</tf>
+<tf desc="mc" ref="fb5" fs="13" x="1008.45" y="-18.15" wi="301" he="25">
+Exactly, you recognized the plausibility errors.</tf>
+</textfields>

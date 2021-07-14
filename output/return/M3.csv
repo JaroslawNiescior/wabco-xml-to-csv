@@ -1,0 +1,240 @@
+ID;Slide Nr;Screen Nr;EN_Text
+1;124;1;ECAS diagnosisand calibration
+2;125;1;Hi! It´s me, Ralph. I guess we already know us.I´m mainly interested in calibration.And finally to get the PIN2. Cause you just need it for it ...
+3;126;1;What you should know at the end of this module ...
+3;126;1;How ECAS detects and handles faults
+3;126;1;How to prepare and start the ECAS diagnosis using the PC
+3;126;1;How to display and handle messages stored in the ECAS ECU
+3;126;1;How to control ECAS components for testing purposes
+3;126;1;How to calibrate the height and pressure sensors
+3;126;1;How to change an ECAS parameter
+3;126;1;Which safety precautions should be taken during the ECAS diagnosis
+4;127;1;Fault handling by ECAS
+5;128;1;FA
+5;128;1;RA
+5;128;1;System diagram motor vehicle (4x2 full air)
+5;128;1;Electrical connections ok?
+5;128;1;Voltage and resistance values correct?
+5;128;1;Sensor signals and system behavior plausible?
+6;128;2;FA
+6;128;2;RA
+6;128;2;System diagram motor vehicle (4x2 full air)
+7;128;3;System diagram semitrailer
+7;128;3;LA
+7;128;3;RA
+7;128;3;RA
+8;128;4;ECAS signal lamp on the trailer
+9;129;1;FA
+9;129;1;RA
+9;129;1;System diagram motor vehicle (4x2 full air)
+9;129;1;counts
+9;129;1;counts
+9;129;1;counts
+10;130;1;The ECAS ECU detects a minor fault.
+10;130;1;The ECAS ECU detects a severe fault.
+10;130;1;The trailer superstructure is on driving level.
+10;130;1;The trailer superstructure is outside the driving level.
+10;130;1;Confirm your selection with
+10;130;1;[ Ready ]
+10;130;1;What does it mean, when after switching the ignition on the ECAS signal lamp shows steady light?
+10;130;1;That´s wrong. Minor as well as severe faults are indicated by flashing.
+10;130;1;No, that would be disadvantageous, because the ECAS signal lamp would be always switched on during driving.
+10;130;1;On the trailer the steady light of the ECAS signal lamp means, that the superstructure is not on driving level.
+10;130;1;Right, on the trailer the steady light of the ECAS signal lamp means, that the superstructure is not on driving level.
+11;131;1;System diagram semitrailer
+11;131;1;???
+11;131;1;LA
+11;131;1;RA
+11;131;1;RA
+12;132;1;OK, wenn something reacts illogically, you have a plausibility error.But when the ECU already knows what´s going wrong, it isn´t.
+13;133;1;FA
+13;133;1;RA
+13;133;1;System diagram motor vehicle (4x2 full air)
+14;134;1;The ECAS ECU starts to address a higher level. In doing so, the count values of the height sensor decrease.
+14;134;1;The ECAS ECU starts to address a higher level. In doing so, the count values of the height sensor increase.
+14;134;1;The ECAS ECU starts to address a higher level. In doing so, the count value of the height sensor remains the same.
+14;134;1;The ECU recieves no longer an electrical signal from a pressure sensor.
+14;134;1;Confirm your selection with
+14;134;1;[ Ready ]
+14;134;1;Please mark all the cases, where a plausibility error occured.
+14;134;1;This is a typical plausibility error because during raising the count values have to be increased. The error can be caused by a wrongly mounted sensor lever. Or the bellow pressure is higher than the supply pressure whereby the superstructure is lowered.
+14;134;1;This behavior is correct: during raising the count values are increasing.
+14;134;1;This is a plausibility error because during raising the count values have to be increased. This error can occur, when the linkage of the height sensor is broken.
+14;134;1;No, this fault is not included, because the ECU monitors and detects it directy. Plausibilitiy errors like a wrongly mounted sensor lever are only indirectly and during control processes detectable.
+14;134;1;Exactly, you recognized the plausibility errors.
+15;135;1;PC diagnosis
+16;136;1;Hardware requirements of the PC diagnosis:
+16;136;1;Pentium PC or higher (a notebook is recommended)
+16;136;1;64 MB RAM at the minimum
+16;136;1;ca. 30 MB free hard disk memory
+16;136;1;Color display 1024x768 Pixels at the minimum
+16;136;1;a free COM interface (9 Pin) resp. USB connection
+16;136;1;Operating system WIN 9x or Windows NT 4.0 / 2000 / XP or compatible successor
+17;137;1;The ECAS diagnosis software is on two ways available:
+17;137;1;As part of a software subscription for download ...
+17;137;1;or separately on discs
+17;137;1;To order the software subscription:
+17;137;1;www.wabco-auto.com
+18;137;2;After entering your user name and password the download can be started.
+19;137;3;The ECAS diagnostic software is easy to install. Just follow the instructions.
+19;137;3;Important note:
+19;137;3;Here and in the following several variants and versions of the ECAS and TECAS diagnostic software are shown.The ECAS diagnostic software is continuously enhanced, to your advantage. Therefore please install and use always the latest version.The latest versions of the ECAS diagnostic software may vary in some details from the state of the diagnosis software shown here.
+20;138;1;Diagnostic Interface USB446 301 022 0
+20;138;1;Diagnostic Interface serial446 301 021 0
+21;139;2;Before raising:Sufficient free space above?
+21;139;2;Before lowering:Sufficient free space below?
+21;139;2;Before one-sided raising and lowering:Sufficient free space sidewise?
+22;139;3;When raising and lowering the superstructure:Crushing and shearing hazard!
+22;139;3;Also when raising and lowering the lifting axle:Crushing hazard!
+23;139;4;The distance between the frame and the axle body can be suddenly changed during control processes:Crushing hazard!
+23;139;4;Before wheel replacement: Deacticate ECAS by all means:
+23;139;4;When the supply pressure is low, move the vehicle slowly and with caution, otherwise the vehicle and the ECAS system may be damaged!
+23;139;4;Ignition off
+23;139;4;Wait until the control processes are finished
+23;139;4;Battery main switch OFF (if existing)
+24;140;1;Ensure that no one can trip over the diagnostic cable.
+24;140;1;During diagnosis no one should come closer to the vehicle, since it could uncontrolledly move.
+24;140;1;Measurings during calibration should be performed always from the workshop pit, never from the vehicle side.
+24;140;1;When controlling compontents for testing purposes during diagnosis, it has to be ensured, that sufficient free space is available in all directions.
+24;140;1;Because during ECAS diagnosis movements of the superstructure are triggered, it has to be ensured, that persons near to the vehicle cannot be crushed.
+24;140;1;Confirm your selection with
+24;140;1;[ Ready ]
+24;140;1;Which of the following statements about required safety precautions during PC diagnosis of an ECAS system are correct?
+24;140;1;This essential precaution in everyday live is also important during diagnosis, especially near the workshop pit.
+24;140;1;That would be overstated. During some diagnostic operations, e.g. when calibrating the height sensors,  simultanuous operating near to the vehice is even required.
+24;140;1;This statement is correct. Because the superstructure can be lowered operating from the vehicle side is too dangerous.
+24;140;1;This statement is correct. The superstructure could ram something during raising, or touch down during lowering.
+24;140;1;This statement is true. Mainly during lowering fingers can be crushed or even sheared.
+24;140;1;Right, you marked the required measures.
+25;141;1;To address the upper level using the RAISE button
+25;141;1;To go around the car to check for damages
+25;141;1;To cry for help at the top of your voice
+25;141;1;To remove yourself from the danger zone
+25;141;1;To press the STOP button of the remote-control unit
+25;141;1;Confirm your selection with
+25;141;1;[ Ready ]
+25;141;1;You are currently addressing the memory level M1 using the remote-control unit. Suddenly you hear a bad sound.
+25;141;1;What should you do as first?
+25;141;1;No. When you do this blindly, a damage may be even increased.
+25;141;1;No. Please consider, that the memory level would still be addressed, dou to a damage could be increased.
+25;141;1;Your immediate action must be to stop the movement of the superstructure to prevent further damages of persons and materials.
+25;141;1;You are right, your immediate action must be to stop the superstructure to prevent damages of persons and materials.
+26;142;1;When the vehicle frame is positioned below or above driving level, the steering behavior and the brake characteristics are influenced.
+26;142;1;When the vehicle frame is positioned below driving level, the spring travel is decreased. Due to this the chassis and the frame may be damaged during driving.
+26;142;1;Du to the reduction of the spring travel the cargo may be damaged.
+26;142;1;Otherwise the supporting bellows could burst during driving, caused by resulting pressure peaks.
+26;142;1;Confirm your selection with
+26;142;1;[ Ready ]
+26;142;1;Before starting the driving level has to be achieved. Why?
+26;142;1;Please mark all appropriate statements:
+26;142;1;This statement is true: The steering behavior and the brake characteristics are influenced by the distance between the axle and the superstructure.
+26;142;1;This statement is true. Due to the reduced spring travel some parts of the vehicle may be damaged.
+26;142;1;This statement is true. Due to the reduced spring travel even the cargo can be damaged.
+26;142;1;This statement is wrong. Another level cannot cause so a pressure growth.
+26;142;1;Right, you marked the correct statements.
+27;143;1;Information is read from the ECU
+28;143;2;After connecting the ECAS ECU the stored data are automatically read and displayed.
+29;143;3;Selecting another interface, when initialisation failed
+30;143;4;VCS IIECU
+30;143;4;ECASECU
+30;143;4;PC
+30;143;4;10
+30;143;4;18
+30;143;4;ISO addresses
+31;144;1;When someone dislikes you, the best way to spite you is to shift the ISO address.After that you have to troobleshoot a while.But this cannot happen to me, because I know ...
+32;145;1;In the main window the most important data of the connected ECAS ECU is displayed.
+32;145;1;Please move the mouse over the regions of the main window!
+32;145;1;ECU data
+32;145;1;Current note
+32;145;1;Configuration
+32;145;1;Configuration scheme (TECAS variant only)
+32;145;1;Status line
+32;145;1;Menue
+32;145;1;Toolbar
+32;145;1;In this area the individual properties of the connected ECU are displayed. Using this data you can refer to your specific device or software version when requesting the WABCO customer support.
+32;145;1;If in the ECU one or more current faults are stored, the latest detected fault is displayed in this area.
+32;145;1;Here you can see the configuration of the ECAS system, e.g. the number and the application positions of the height sensors and the number of lifting axles.
+32;145;1;In the Trailer ECAS diagnostic software the ECAS configuration is graphically displayed.The motor vehicle variants of the diagnostic software display a picture of ECAS system components at this place.
+32;145;1;A green symbol indicates, that the data connection has been successfully established, otherwise the symbol is red.
+32;145;1;Via the menu commands the related diagnostic functions are performed, including commissioning of the vehicle, treatment of messages, actuation of connected components for testing, measurement of values and setting of parameters.
+32;145;1;Instead of using the menu commands it is quicker to use these icons.
+33;146;1;Typical use cases
+34;147;1;OK, it has been talked several times about faults and messages.And where can I find it?
+35;148;1;The last detected and still pending fault is shown in red in the mainwindow of the diagnostic software.
+36;148;2;Detailed fault descriptions:
+36;148;2;Where is the fault?
+36;148;2;Possible causes
+36;148;2;What must be done?
+36;148;2;How severe?
+36;148;2;Never delete a message, if the cause of the fault is not corrected. Even if the fault is currently not detectable: the stored message is an important hint, e.g. on a loose contact.Follow these hints, because safety comes first!
+36;148;2;!!! Attention !!!
+37;148;3;For documentation:displaying and printingthe diagnostic log
+38;149;1;"After ""delete diagnostic memory"" all previously displayed faults are deleted and the diagnostic memory is empty."
+38;149;1;"After ""Refresh"" all currently detectable faults have a red background."
+38;149;1;"After ""Refresh"" all corrected and currently not existing faults have a blue background."
+38;149;1;"After ""Refresh"" all corrected faults are removed."
+38;149;1;Faults with a blue background are corrected and can be removed.
+38;149;1;Using the ECAS diagnostic software the faults which have been stored in the ECU can be readout and displayed as a list.
+38;149;1;Which statements regarding the functions provided by this dialog window are correct?
+38;149;1;Please mark the two correct statementsand confirm with
+38;149;1;[ Ready ]
+38;149;1;That´s right! You marked the two correct statements.
+38;149;1;"This is not always the case. If a still existing fault has been recognized, the fault is displayed again, even if ""Delete diagnostic memory"" has been clicked."
+38;149;1;"This statement ist true: currently detected faults have always a red background, even after ""Refresh""."
+38;149;1;"This statement ist true: after ""Refresh"" the faults which have not been recognized again have a blue background."
+38;149;1;"That´s not true: after ""Refresh"" all corrected faults have a blue background."
+38;149;1;That´s not correct. It´s possible, that a fault is still existing but currently not detectable, for instance a loose contact.
+39;150;1;Raising and lowering can be separately tested for each ECAS control loop.
+39;150;1;"By means of the function ""Lamp test"" in the motor vehicle several lamp outputs can be checked."
+39;150;1;In the trailer the ECAS signal lamp should always flash during diagnosis.
+40;151;1;By the way, because they forgot to mention it here: during diagnosis the remote-control unit cannot be used. Raising and lowering works only using the software.And with the software you can check, whether the remote-control unit is alright.Even though it doesn´t work during this time, as I said before ...
+41;154;1;To address the driving level using the diagnostic software
+41;154;1;To address the driving level using the remote-control unit
+41;154;1;To store the actual count value as driving level
+41;154;1;To address the upper level
+41;154;1;Confirm your selection with
+41;154;1;[ Ready ]
+41;154;1;Please mark the only of the following steps, which is never performed during calibration of the height sensors.
+41;154;1;No, this step is performed. During calibration of the height sensors the driving level is usually first addressed.
+41;154;1;During calibration the remote-control unit is deactivated.
+41;154;1;No, this step is performed. During calibration of the height sensors the driving level specified by the vehicle manufacturer is addressed and the resulting count values are stored as driving level in the ECU.
+41;154;1;No, during calibration of the height sensors the upper and the lower level are usually addressed.
+41;154;1;Correct, during calibration the remote-control unit is deactivated, when the diagnosis mode is started in the software.
+42;155;1;"Calibrate the height sensors of the rear axle of this motor vehicle! Your PIN2 during this exercise is ""ABCD""."
+42;155;1;Loading simulation ...
+42;155;1;As next arrange the spacer tube.
+42;155;1;As next lower the vehicle frame on the spacer tube completely.
+42;155;1;As next address the upper level.
+42;155;1;As next address the lower level.
+42;155;1;To remove the spacer tube, sufficient interspace is required. In this simulation the upper level has to be achieved before.
+42;155;1;To arrange this spacer tube, sufficient interspace between the longitudinal beam and the axle is required. In this simulation the upper level has to be achieved before.
+42;155;1;To arrange this spacer tube, sufficient interspace between the longitudinal beam and the axle is required.
+42;155;1;Start the diagnosis software using the symbol on the right.
+42;155;1;"Select the appropriate command in the ""System"" menu."
+42;155;1;Confirm with OK.
+42;155;1;"Click on ""Start calibration""."
+42;155;1;"Enter your PIN2 ""ABCD""."
+42;155;1;Confirm with OK.
+42;155;1;"Activate ""Rear axle left"" and ""Rear axle right""."
+42;155;1;To arrange the spacer tube, sufficient interspace is required. In this simulation the upper level has to be achieved before.
+42;155;1;As next arrange the spacer tube.
+42;155;1;As next lower the vehicle frame onto the spacer tube completely.
+42;155;1;Store the current level as driving level.
+42;155;1;Address the upper level.
+42;155;1;Store the current level as upper level.
+42;155;1;To be able to address the lower level, remove the spacer tube.
+42;155;1;Address the lower level.
+42;155;1;Store the current level as lower level.
+43;157;1;By the used variant of the ECAS diagnostic software
+43;157;1;By the current parameterization
+43;157;1;By the specific hardware of the connected ECAS ECU
+43;157;1;By the number of installed height sensors
+43;157;1;Confirm your selection with
+43;157;1;[ Ready ]
+43;157;1;"To calibrate the height sensors, the two calibration types ""Calibration only for standard level"" and ""Three calibration levels"" are provided. Where is the calibration type defined?"
+43;157;1;No, different variants of the ECAS diagnostic software regarding this are not provided.
+43;157;1;The calibration type is defined by parameterization, using Bit 6 of the option parameter 1.
+43;157;1;No, the hardware of the ECU has no effect on this.
+43;157;1;No, the number of height sensors has nothing to do with that.
+43;157;1;Right, this is defined using Bit 6 of the option parameter 1.
+44;159;1;OK, we are through!I, for my share, don´t feel any pressure.Therefore I will perform the final test tomorrow. I´m shure, I will romp through. And my PIN2 has to wait one day.

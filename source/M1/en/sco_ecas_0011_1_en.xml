@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0011_1.swf" language="en">
+<tf desc="mc" ref="1" fs="13" x="409.5" y="171" wi="228.1" he="20">
+The pressure is higher than before.</tf>
+<tf desc="mc" ref="2" fs="13" x="409.5" y="211" wi="229.05" he="22">
+The pressure remains the same.</tf>
+<tf desc="mc" ref="3" fs="13" x="409.5" y="251" wi="228.1" he="20">
+The pressure is lower than before.</tf>
+<tf desc="mc" ref="4" fs="13" x="409.5" y="291" wi="227.05" he="36">
+Whether higher or lower depends on the design of the bellow.</tf>
+<tf desc="mc" ref="8" fs="12" x="378.5" y="344.5" wi="240.05" he="37">
+Please mark the correct statement. After that click on</tf>
+<tf desc="mc" ref="10" fs="13" x="377.25" y="391.5" wi="59.95" he="24">
+[ Ready ]</tf>
+<tf desc="mc" ref="21" fs="13" x="378.85" y="76" wi="281" he="85">
+A load platform is raised by pressurizing the air suspension bellows, after that the air supply is closed. What´s the pressure in each bellow when raising is finished?</tf>
+<tf desc="mc" ref="fb1" fs="13" x="992.45" y="64.85" wi="266" he="41">
+Unfortunately this is wrong. Please consider the only variable the pressure depends on.</tf>
+<tf desc="mc" ref="fb2" fs="13" x="993.45" y="124.85" wi="225" he="54">
+Because the load remains unchanged, after raising the bellows pressure is the same.</tf>
+<tf desc="mc" ref="fb4" fs="13" x="992.45" y="192.85" wi="188" he="39.9">
+No, it is not influenced by design of the bellow.</tf>
+<tf desc="mc" ref="fb5" fs="13" x="990.45" y="-16.15" wi="256" he="39">
+You are right. Because the load remains unchanged, the bellows pressure is the same after raising.</tf>
+</textfields>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0004_2.swf" language="en">
+<tf desc="mc" ref="3" fs="13" x="161.5" y="420" wi="236.5" he="55">
+Example:
+ECAS control unit for motor vehicle 4x2
+446 055 301 0</tf>
+<tf desc="mc" ref="6" fs="13" x="453.5" y="424" wi="223.05" he="26">
+ECAS control unit for trailers</tf>
+</textfields>

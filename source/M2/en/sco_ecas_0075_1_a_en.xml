@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<audios file="sco_ecas_0075_1.swf" language="en">
+<au ref="1">
+For motor vehicles and busses different ECU versions are provided, depending on for instance whether it is 4x2 or a 6x2 system or whether CAN bus support has to be provided.
+</au>
+<au ref="2">
+For each ECU a well adapted variant of the ECAS diagnostic software is available.
+</au>
+</audios>

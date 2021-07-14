@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<audios file="sco_ecas_0122_1.swf" language="en">
+<au ref="1">
+To lower the Bus on the entrance side, the driver actuates the kneeling switch.
+</au>
+<au ref="2">
+Accordingly the solenoid of the cross flow throttle of the front axle valve is switched off, and the connection between the bellows of the front axle is blocked. Please note, that the bellows of the rear axle can be separately pressurized and vented anyway.
+</au>
+<au ref="3">
+Now the supporting bellows on the entrance side are vented, until the driver releases the kneeling switch, or until a lower level is reached or one of the safety switches is actuated. The latter are installed to prevent persons or objects being trapped.
+</au>
+<au ref="4">
+For raising the driver actuates the driving level switch, due to the supporting bellows are pressurized again.
+</au>
+<au ref="5">
+When the driving level on the entrance side is reached, the solenoid of the cross flow throttle is energized again and the connection between the right and the left supprting bellow is unblocked again.
+</au>
+</audios>

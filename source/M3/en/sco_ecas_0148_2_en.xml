@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0148_2.swf" language="en">
+<tf desc="mc" ref="20" fs="13" x="519.5" y="130" wi="194.05" he="33">
+Detailed fault descriptions:</tf>
+<tf desc="mc" ref="31" fs="13" x="544.5" y="167" wi="159.05" he="21">
+Where is the fault?</tf>
+<tf desc="mc" ref="32" fs="13" x="544.5" y="197" wi="188.05" he="28">
+Possible causes</tf>
+<tf desc="mc" ref="33" fs="13" x="544.5" y="227" wi="186.05" he="28">
+What must be done?</tf>
+<tf desc="mc" ref="34" fs="13" x="544.5" y="257" wi="141.05" he="23">
+How severe?</tf>
+<tf desc="mc" ref="703" fs="13" x="260.45" y="222" wi="294.55" he="114">
+Never delete a message, if the cause of the fault is not corrected. Even if the fault is currently not detectable: the stored message is an important hint, e.g. on a loose contact.
+
+Follow these hints, because safety comes first!</tf>
+<tf desc="mc" ref="704" fs="13" x="259.45" y="189" wi="320.1" he="24">
+!!! Attention !!!</tf>
+</textfields>

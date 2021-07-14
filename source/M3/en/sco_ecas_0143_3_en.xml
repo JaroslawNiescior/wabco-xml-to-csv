@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0143_3.swf" language="en">
+<tf desc="mc" ref="3" fs="13" x="157.45" y="456" wi="332.5" he="23">
+Selecting another interface, when initialisation failed</tf>
+</textfields>

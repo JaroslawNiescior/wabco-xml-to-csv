@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0052_1.swf" language="en">
+<tf desc="mc" ref="7" fs="12" x="158.5" y="191.15" wi="77" he="17.7">
+Driving level I</tf>
+<tf desc="mc" ref="21" fs="13" x="187.45" y="349" wi="189.5" he="71">
+Adjusted during calibration of the height sensors according to the specifications of the vehicle manufacturer</tf>
+<tf desc="mc" ref="22" fs="13" x="187.45" y="424" wi="188.5" he="56">
+Addressed using the remote-control unit, or automatically at a parameterized vehicle speed</tf>
+<obj desc="mc" ref="11" x="160" y="353" wi="10" he="10"/>
+<obj desc="mc" ref="12" x="160" y="428" wi="10" he="10"/>
+</textfields>

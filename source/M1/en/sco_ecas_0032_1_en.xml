@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0032_1.swf" language="en">
+<tf desc="mc" ref="2" fs="22" x="375" y="66" wi="82" he="28.55">
+1 Byte</tf>
+<tf desc="mc" ref="3" fs="14" x="184" y="117.55" wi="32.05" he="20.95">
+Bit</tf>
+<tf desc="mc" ref="5" fs="12" x="230.5" y="338.5" wi="347.5" he="36.5">
+Change the byte value to 22 by switching the bits on or off. Try to get by with 2 mouse clicks.</tf>
+<tf desc="mc" ref="7" fs="13" x="225.45" y="395" wi="401.1" he="53">
+Solution: To increase the byte value from 21 to 22, bit 0 with value 1 is switched off and bit 1 with value 2 is switched on. (The bits 2 and 4 remain switched on).</tf>
+<tf desc="mc" ref="8" fs="13" x="384" y="378" wi="73.95" he="24">
+[ Solution ]</tf>
+</textfields>

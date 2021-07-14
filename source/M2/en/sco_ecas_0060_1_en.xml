@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0060_1.swf" language="en">
+<tf desc="mc" ref="2" fs="12" x="217" y="333" wi="79" he="39">
+Wheel load on the left</tf>
+<tf desc="mc" ref="3" fs="12" x="474" y="333" wi="79" he="36">
+Wheel load on the right</tf>
+<tf desc="mc" ref="4" fs="13" x="159.45" y="424" wi="321.5" he="44">
+Lateral stabilisation by implementing separate control circuits on the left and the right side of the rear axle</tf>
+</textfields>

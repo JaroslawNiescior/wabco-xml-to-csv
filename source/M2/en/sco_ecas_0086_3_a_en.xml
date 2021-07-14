@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<audios file="sco_ecas_0086_3.swf" language="en">
+<au ref="1">
+To raise the lifting axle the solenoid for the central pressurizing and venting is actuated as already depicted here. After that supply pressure is provided in chamber C.
+</au>
+<au ref="2">
+Now the left solenoid of the lifting axle block is actuated for some seconds. Due to this the supporting bellows of the lifting axle get pneumatically separated from the main axle and are vented to outlet 32.
+Simultanuously the lifting bellow is vented via the chamber C and the lifting axle is raised.
+</au>
+<au ref="3">
+After that the left solenoid of the lifting axle block is switched off and the control pressure is released to the atmosphere via the solenoid vent.
+</au>
+<au ref="4">
+To lower the lifting axle, the right solenoid of the lifting axle block is actuated for some seconds. Due to this the 3 control pistons are reversed. The lifting bellow is vented to outlet 32 ...
+</au>
+<au ref="5">
+... and the supporting bellows of the lifting axle are pressurized, after supplying the chambers A and B of the rear axle block with compressed air.
+</au>
+<au ref="6">
+Finally the solenoids are switched off again and the control pressure is released to the atmosphere.
+</au>
+</audios>

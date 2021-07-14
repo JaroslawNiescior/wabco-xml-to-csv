@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0038_1.swf" language="en">
+<tf desc="mc" ref="11" fs="13" x="323.45" y="81" wi="267.5" he="57">
+Gauge specified by the vehicle manufacturer to extend the air suspension bellow to a predefined height</tf>
+<tf desc="mc" ref="12" fs="13" x="323.45" y="239" wi="263.1" he="68">
+A spacer tube or block designated by the vehicle manufacturer is placed on the axle and the vehicle frame is lowered onto it.</tf>
+<tf desc="mc" ref="13" fs="13" x="323.45" y="413" wi="265.1" he="40">
+The marks on the shock absorber indicate the position of the outer tube at driving level.</tf>
+</textfields>
