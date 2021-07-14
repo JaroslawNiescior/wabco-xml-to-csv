@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
-<textfields file="sco_ecas_0080_2.swf" language="en">
-<tf desc="mc" ref="2" fs="13" x="319.5" y="421.5" wi="209.55" he="39.5">
-The height sensor function cannot be tested using a voltage meter!</tf>
-</textfields>

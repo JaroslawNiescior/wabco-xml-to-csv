@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
-<textfields file="sco_ecas_0020_1.swf" language="en">
-<tf desc="mc" ref="1" fs="12" x="446" y="123" wi="196" he="117">
-That´s a smart feature of ECAS, because a lot of compressed air is saved when driving.
-
-But that´s only possible, because the system is able to detect whether the vehicle is in motion.</tf>
-</textfields>

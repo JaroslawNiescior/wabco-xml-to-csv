@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
-<textfields file="sco_ecas_0086_3.swf" language="de">
-<tf desc="mc" ref="2" fs="18" x="221.5" y="431.5" wi="57.05" he="29">
-RA
-</tf>
-<tf desc="mc" ref="3" fs="18" x="495.5" y="431.5" wi="57.05" he="29">
-LA
-</tf>
-</textfields>

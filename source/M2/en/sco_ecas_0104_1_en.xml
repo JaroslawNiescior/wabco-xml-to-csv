@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
-<textfields file="sco_ecas_0104_1.swf" language="en">
-<tf desc="mc" ref="5" fs="32" x="156.5" y="190.5" wi="496.45" he="80.5">
-ECAS control types depending on the number of sensors</tf>
-</textfields>

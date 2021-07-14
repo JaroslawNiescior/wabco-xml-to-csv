@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
-<textfields file="sco_ecas_0132_1.swf" language="en">
-<tf desc="mc" ref="1" fs="12" x="186" y="106" wi="199" he="104">
-OK, wenn something reacts illogically, you have a plausibility error.
-
-But when the ECU already knows what´s going wrong, it isn´t.</tf>
-</textfields>

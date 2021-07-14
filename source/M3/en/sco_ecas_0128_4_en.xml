@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
-<textfields file="sco_ecas_0128_4.swf" language="en">
-<tf desc="mc" ref="1" fs="13" x="157.45" y="290" wi="281.05" he="23">
-ECAS signal lamp on the trailer
-</tf>
-</textfields>

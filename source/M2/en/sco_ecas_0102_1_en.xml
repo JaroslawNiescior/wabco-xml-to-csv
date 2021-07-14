@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
-<textfields file="sco_ecas_0102_1.swf" language="en">
-<tf desc="mc" ref="2" fs="13" x="158.45" y="316" wi="238.55" he="39">
-Standby operation when towing vehicle is uncoupled</tf>
-<tf desc="mc" ref="4" fs="12" x="443.45" y="316" wi="207.5" he="36">
-Open the battery box by touching it with the mouse pointer!</tf>
-<tf desc="mc" ref="5" fs="13" x="158.45" y="364" wi="248.55" he="37">
-The last reference level when the ignition is switched off is automatically maintained.</tf>
-</textfields>
