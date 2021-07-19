@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This is a Reload version 2.0.2 Content Package document-->
+<!--Spawned from the Reload Content Package Generator - http://www.reload.ac.uk-->
+<manifest xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" identifier="MANIFEST-7164A60A-ECE1-DF9E-5398-7DB4189F3E14" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <organizations default="ORG-6745EE38-F70B-905D-2C7B-EB0777694811">
+    <organization identifier="ORG-6745EE38-F70B-905D-2C7B-EB0777694811" structure="hierarchical">
+      <title>WBT ECAS Modul 2</title>
+      <item identifier="ITEM-75DA2B8B-4662-4A42-5D47-3FFCFC63D8F9" isvisible="true" identifierref="RES-4D7CDFF6-8A0D-F448-EF22-4ED7E5BBF064">
+        <title>ECAS: Funktionen, Komponenten, Anlagen</title>
+      </item>
+      <item identifier="ITEM-90F1B9BB-51F5-2935-00E4-558C8A10A0FB" isvisible="true" identifierref="RES-01D4752C-1E1D-6A3C-F854-3AFE32DF2D27">
+        <title>Ralph ...</title>
+      </item>
+      <item identifier="ITEM-776CD917-6FAA-9843-F3EA-EDC8018EEE4B" isvisible="true" identifierref="RES-E9395E36-FD9E-839B-44AC-711DA81BBCA6">
+        <title>Einleitung und Benutzerhinweise</title>
+      </item>
+      <item identifier="ITEM-A663B864-171C-D640-7E88-5A1D123BBC0C" isvisible="true" identifierref="RES-4528604B-5299-8B91-1774-A6D40209495D">
+        <title>Die ECAS Systemfunktionen</title>
+        <item identifier="ITEM-0068F222-AF0F-3916-6D54-EDA268CF8087" isvisible="true" identifierref="RES-F7164F0C-B025-9DED-E42A-CF1D21057E81">
+          <title>Die Grundfunktion: Sollniveau-Regelung</title>
+        </item>
+        <item identifier="ITEM-1E7EC2FE-925B-75D9-7B65-BC694346DE07" isvisible="true" identifierref="RES-AE28D3B4-125B-0502-C471-DA5E55958C2C">
+          <title>Das Fahrniveau I</title>
+        </item>
+        <item identifier="ITEM-BF168C52-D756-BD05-3065-21637D289CCC" isvisible="true" identifierref="RES-3C20A1DE-EC4C-9E81-C0F2-9BCF604B3A15">
+          <title>Die Fahrniveaus II und III</title>
+        </item>
+        <item identifier="ITEM-F473B79B-1BEB-51FB-66C1-9B4EA967C201" isvisible="true" identifierref="RES-2E228A28-5EDC-B238-D5E2-C64A9773BF70">
+          <title>Aufgabe: Fahrniveaus</title>
+        </item>
+        <item identifier="ITEM-EF0D4F1A-D592-EF59-7F53-4CF195A82ABE" isvisible="true" identifierref="RES-AE0BCAC4-6BEF-245F-65D9-9929288F767A">
+          <title>Entladeniveau</title>
+        </item>
+        <item identifier="ITEM-2D7CA2AC-2193-7DD4-4F48-6AB65C64E416" isvisible="true" identifierref="RES-54FC389A-6368-AD55-6CA7-7CAA1E619D3D">
+          <title>Die Memoryniveaus 1 und 2</title>
+        </item>
+        <item identifier="ITEM-0C3E5262-C82F-989F-74B5-B2D479095EA9" isvisible="true" identifierref="RES-48DA992D-A705-99CD-B7D9-7614E7B5677E">
+          <title>Aufgabe: Entladeniveau und Memoryniveaus</title>
+        </item>
+        <item identifier="ITEM-A4BDCBA5-E6CB-C823-B86B-11C342915CB2" isvisible="true" identifierref="RES-256E23AF-2F2C-CB5C-93D0-A35355D04BB6">
+          <title>Ralph ...</title>
+        </item>
+        <item identifier="ITEM-BCC9F93E-0C63-0050-D38A-DC9091CFA2F6" isvisible="true" identifierref="RES-9696B281-A1B9-C737-2630-C86F16607400">
+          <title>Höhenbegrenzung</title>
+        </item>
+        <item identifier="ITEM-2A2EA230-A0F9-5049-4186-73621F905FDC" isvisible="true" identifierref="RES-E0446A0A-8082-1513-AECA-917339A4BED5">
+          <title>Querstabilisierung</title>
+        </item>
+        <item identifier="ITEM-326F6EC0-7101-4061-2411-C11BBE301D57" isvisible="true" identifierref="RES-E5E39717-360C-1121-4345-3A8CE49555FA">
+          <title>Liftachssteuerung und Zwangssenken</title>
+        </item>
+        <item identifier="ITEM-534ECE49-6E1E-433E-FA9A-3A2B55B5AD11" isvisible="true" identifierref="RES-68A32BE6-EFA5-E529-CB87-B5EBFAFBD9F1">
+          <title>Nullpunktverstellung</title>
+        </item>
+        <item identifier="ITEM-681DAAA9-03BD-9173-40DD-8299C53307E3" isvisible="true" identifierref="RES-F18690F9-1944-FB73-C8D9-94D9B0342D20">
+          <title>Anfahrhilfe</title>
+        </item>
+        <item identifier="ITEM-A31B7AE0-BF6D-2DF5-4DA5-466E1BE9488F" isvisible="true" identifierref="RES-D2D3EB0E-E8F9-4970-7B77-9DB77A195C50">
+          <title>Ralph ...</title>
+        </item>
+        <item identifier="ITEM-99CF8CDB-1258-F495-0448-820F78380E9A" isvisible="true" identifierref="RES-EE0846AD-94DF-D8A4-03E1-321ADDE6D6B8">
+          <title>Überladungssschutz</title>
+        </item>
+        <item identifier="ITEM-628F83C5-DD0D-0E1F-C14B-00846E0DA822" isvisible="true" identifierref="RES-703F2522-3080-1FEB-AFA3-CE780B42E945">
+          <title>Reifeneindrückungskompensation</title>
+        </item>
+        <item identifier="ITEM-F1A9016C-6B57-08CC-61FF-21B6798A0D3A" isvisible="true" identifierref="RES-A9C169DF-637C-9CA9-3329-6FEE83EECF86">
+          <title>Aufgabe: Reifeneindrückungskompensation</title>
+        </item>
+        <item identifier="ITEM-7B555394-D8C4-E239-3AC9-7542F2EC9226" isvisible="true" identifierref="RES-44831A9D-25EC-A52A-1F17-1DE9D72DFE08">
+          <title>Im Anhänger: Standby-Funktion</title>
+        </item>
+        <item identifier="ITEM-CA2F5D9A-FB21-8144-967C-6346FEFD2911" isvisible="true" identifierref="RES-303ED36E-8850-4B20-5F66-2944ABE3A8EA">
+          <title>Im Bus: Kneeling</title>
+        </item>
+        <item identifier="ITEM-5B5DB17C-7E07-000E-7EAE-D56B55913ABD" isvisible="true" identifierref="RES-99537AF6-15C0-CB16-8C99-65CFB912088B">
+          <title>Ralph ...</title>
+        </item>
+      </item>
+      <item identifier="ITEM-0873F2FC-6F68-38F1-383D-B6DE979191FC" isvisible="true" identifierref="RES-5C319E5B-0E3E-A6AD-4EBC-60BDE2D5AC36">
+        <title>Die ECAS Komponenten</title>
+        <item identifier="ITEM-6354E953-8660-9FDB-33B0-11CDBD1ECB37" isvisible="true" identifierref="RES-104A6D9D-F33D-3AF9-B82B-217518669B9E">
+          <title>Die ECAS ECU</title>
+          <item identifier="ITEM-2CA80A28-4CAA-B201-79C5-C7A96682C411" isvisible="true" identifierref="RES-96A893E1-4865-38C6-F967-CA2A05E927A3">
+            <title>Allgemeine Aufgaben der ECAS ECU</title>
+          </item>
+          <item identifier="ITEM-7FE81639-DA3B-6D97-9E34-315C39BE780F" isvisible="true" identifierref="RES-2EC52DD7-29D4-7BFE-24FC-1C877EDDF1E7">
+            <title>Aufgabe: Die ECAS ECU</title>
+          </item>
+          <item identifier="ITEM-7D2BD531-A787-7D61-D148-A998069711A6" isvisible="true" identifierref="RES-9E7CBDCA-5518-C88C-D111-E5A1FDE035B0">
+            <title>Die ECAS ECU im Motorwagen und Bus</title>
+          </item>
+          <item identifier="ITEM-2CB2D82D-A157-3D27-A8F3-4200A072920B" isvisible="true" identifierref="RES-21724868-D9A3-4B3D-D705-A16AC19D062B">
+            <title>Die ECAS ECU im Anhänger</title>
+          </item>
+          <item identifier="ITEM-D455D1C7-1CE7-104F-DA87-12D24AD5DE0E" isvisible="true" identifierref="RES-03BA4477-2B18-DD5B-5B69-9182984588E7">
+            <title>Ralph ...</title>
+          </item>
+        </item>
+        <item identifier="ITEM-5E080A5E-E915-A6CB-CB41-4DDFCDD5445A" isvisible="true" identifierref="RES-2D8AF6DC-D71F-EEFF-ADD5-56EC65879C98">
+          <title>Wegsensoren</title>
+          <item identifier="ITEM-8641CBDD-4AC6-849B-D7A0-5C41D247F9D0" isvisible="true" identifierref="RES-A823467C-8151-D9A0-1079-A5DD601B7F46">
+            <title>Der "konventionelle" Wegsensor</title>
+          </item>
+          <item identifier="ITEM-0EBD4F9B-84D9-0941-8D10-768E4C30E42E" isvisible="true" identifierref="RES-5C109703-E9B1-EAD1-C4AD-81E1A55FB706">
+            <title>Der Drehwinkel-Sensor</title>
+          </item>
+          <item identifier="ITEM-DE20B04E-848B-A846-DAEA-D4BDACBD1712" isvisible="true" identifierref="RES-844DA2BA-83EE-502C-0727-6D70C11C573C">
+            <title>Ralph ...</title>
+          </item>
+          <item identifier="ITEM-7542B209-3A59-13A6-17C3-94A1C1745145" isvisible="true" identifierref="RES-A9842752-8E28-43B0-1066-B0986F5DBAD2">
+            <title>Aufgabe: Wegsensoren und counts</title>
+          </item>
+        </item>
+        <item identifier="ITEM-E5A43604-D49E-5F63-99CE-095C2B4F9284" isvisible="true" identifierref="RES-FB981317-DC75-6FD8-DA82-D8E022130C05">
+          <title>ECAS-Magnetventile</title>
+          <item identifier="ITEM-949F3145-1117-FEE1-3DB8-A942EF5C5321" isvisible="true" identifierref="RES-0E856FE2-C608-3E13-3000-593109F4E959">
+            <title>Beispiel: Das ECAS Hinterachsventil für 2-Punkt-Regelung</title>
+          </item>
+          <item identifier="ITEM-49817B50-BF6C-EFF0-935F-25131A3DCEFC" isvisible="true" identifierref="RES-EF625049-5F0F-C3FD-8F3F-BF9D3A0ADF7F">
+            <title>Aufgabe: ECAS Hinterachsventil für 2-Punkt-Regelung</title>
+          </item>
+          <item identifier="ITEM-D7016F6D-4750-5189-A703-78F09056C630" isvisible="true" identifierref="RES-F6BA1EC7-79FE-FB0A-312B-F8F66903840A">
+            <title>Der ECAS Ventilblock für Hinterachse und Liftachse</title>
+          </item>
+          <item identifier="ITEM-E44FC5B2-64E9-E2E7-AD4C-16393609B020" isvisible="true" identifierref="RES-3BC7E783-A85D-D4BF-0D8B-BE38BDA2EB83">
+            <title>Ralph ...</title>
+          </item>
+          <item identifier="ITEM-437D6E2B-3C62-E2FF-3A65-FF306577BDE0" isvisible="true" identifierref="RES-8DD5610B-9819-0EF8-C05B-0F791738D4E5">
+            <title>Aufgabe: ECAS Ventilblock für Hinterachse und Liftachse</title>
+          </item>
+        </item>
+        <item identifier="ITEM-0FCFFA86-07C4-A0E1-C6B7-C7122B469A4C" isvisible="true" identifierref="RES-3B7A0AEA-7A5E-82A6-18B5-18BE2FE1B2E1">
+          <title>Die ECAS Bedieneinheit</title>
+          <item identifier="ITEM-6182953D-60E7-5016-7E6B-9A9327A85727" isvisible="true" identifierref="RES-965F0D74-0C5F-1444-5948-A18E3AA3B8FA">
+            <title>Wozu dient die ECAS Bedieneinheit?</title>
+          </item>
+          <item identifier="ITEM-871647AF-C7B6-072E-83EE-865C555D509E" isvisible="true" identifierref="RES-E6572D5D-D8F6-B019-93EC-8F3B5463109C">
+            <title>Aufgabe: Aufbau hinten heben und senken</title>
+          </item>
+          <item identifier="ITEM-D79DA70D-2772-FDA8-169D-96A12842FD2D" isvisible="true" identifierref="RES-46F7C08E-4AAD-E223-8DD9-B4ED4930FA10">
+            <title>Aufgabe: Aufbau heben und senken</title>
+          </item>
+          <item identifier="ITEM-8D9B2A69-A0CD-47FB-0FDE-A4A1FB5E48EB" isvisible="true" identifierref="RES-FD372028-8195-76C5-718C-F06A9346CC01">
+            <title>Aufgabe: Liftachse heben und senken</title>
+          </item>
+          <item identifier="ITEM-4E1E40A7-5017-50D5-990A-BBB504C6358A" isvisible="true" identifierref="RES-6C1F0396-A2E3-E622-58DA-728868D72600">
+            <title>Ralph</title>
+          </item>
+          <item identifier="ITEM-96FE03F0-1C0A-B6D2-6753-88503BF90C0F" isvisible="true" identifierref="RES-BF67DD62-0228-288B-E68E-DF132ECF44CD">
+            <title>Aufgabe: Aktivieren der Anfahrhilfe</title>
+          </item>
+          <item identifier="ITEM-AABC741B-A101-D077-ACA3-202B2A1979FC" isvisible="true" identifierref="RES-B27B218A-D7DA-F014-FFD0-00159BB6EDEF">
+            <title>Aufgabe: Fahrniveau 1 einstellen</title>
+          </item>
+          <item identifier="ITEM-8A1C1FE8-5F0A-324C-3559-B8657AF62686" isvisible="true" identifierref="RES-948E1285-97E0-5B17-D6BF-EAF37ABBA3C0">
+            <title>Aufgabe: Das aktuelle Fahrniveau anfahren</title>
+          </item>
+          <item identifier="ITEM-88A566DD-D045-7463-1ADA-AB17497D1311" isvisible="true" identifierref="RES-C6F3B119-8DC7-3DA6-D2B7-866B1A6AF6F2">
+            <title>Aufgabe: Memoryniveau 1 speichern</title>
+          </item>
+          <item identifier="ITEM-1FCDDE6A-A02A-D9CB-BFA9-0FC01D2E1270" isvisible="true" identifierref="RES-723E63BB-10B4-41FD-994F-BBDC1D071489">
+            <title>Aufgabe: Memoryniveau 2 anfahren</title>
+          </item>
+        </item>
+        <item identifier="ITEM-07FA91E9-844B-7A75-3D8E-775435F6D6EF" isvisible="true" identifierref="RES-84803A86-54C7-6660-1343-60D269952AD5">
+          <title>Im Anhänger: Die Bedienbox</title>
+        </item>
+        <item identifier="ITEM-8B76BEC4-1BFC-D812-97F6-8F79428206F0" isvisible="true" identifierref="RES-07EF4683-B038-C4FB-4177-7102F37E4757">
+          <title>Ralph ...</title>
+        </item>
+        <item identifier="ITEM-CD4A17B5-0B63-FD1E-C955-070F932D7DEE" isvisible="true" identifierref="RES-C7C36551-F323-F5B7-62E4-CB3357A0077E">
+          <title>Im Anhänger: Die Batteriebox für Standby-Betrieb</title>
+        </item>
+      </item>
+      <item identifier="ITEM-6B0AB04F-5800-85A4-D5A3-8AC56E3206AC" isvisible="true" identifierref="RES-B2CB80CC-C597-F1B0-2192-2912ABF141A1">
+        <title>ECAS Anlagen</title>
+        <item identifier="ITEM-F9C431AB-F735-BCEF-E8CA-57796318957A" isvisible="true" identifierref="RES-07AFD963-6417-2C96-C82E-09F5ED94597C">
+          <title>ECAS Regelungen nach Anzahl der Sensoren</title>
+          <item identifier="ITEM-7D6634CC-1CD6-9AEB-801C-ED23B5D192E2" isvisible="true" identifierref="RES-228F2FF5-C781-314D-3D9C-DE8B5E03CD46">
+            <title>1-Punkt-Regelung</title>
+          </item>
+          <item identifier="ITEM-EEDE9C3C-FBD5-24D9-E66E-67DB7A796B7D" isvisible="true" identifierref="RES-92E0AA6F-6FDC-0C1C-FD60-7DF7B89F123C">
+            <title>2-Punkt-Regelung</title>
+          </item>
+          <item identifier="ITEM-19596005-6407-2D11-7968-2F905493C5D7" isvisible="true" identifierref="RES-8CC03BB8-F7EB-8150-24DE-48D1811CA7F6">
+            <title>3-Punkt-Regelung</title>
+          </item>
+          <item identifier="ITEM-E4B9E307-64EC-DA3F-CED7-16709AEE210E" isvisible="true" identifierref="RES-69A59F07-4C19-DD8E-C2A6-FF5FA74DF7B3">
+            <title>Aufgabe: ECAS Regelungsarten</title>
+          </item>
+        </item>
+        <item identifier="ITEM-EC0BC46F-BA94-6005-8498-DF02C0990B2B" isvisible="true" identifierref="RES-1CD9CF86-CCAC-4C61-9F64-BC493F3CC110">
+          <title>ECAS im Motorwagen</title>
+          <item identifier="ITEM-EB5791E7-E63C-3C45-A400-4D3CE20204E5" isvisible="true" identifierref="RES-865E7DBE-8A7F-27EC-8BB4-0759BBA81223">
+            <title>Ralph ...</title>
+          </item>
+          <item identifier="ITEM-1AB707A4-3651-ABF6-D82B-01E04D596F8E" isvisible="true" identifierref="RES-B952E22E-CE82-9739-76F2-C9CB2E590FC0">
+            <title>Beispiel Systemaufbau: Motorwagen 4 x 2 Vollluft</title>
+          </item>
+          <item identifier="ITEM-70E32275-11B5-160A-8F91-3A3A6F6EB367" isvisible="true" identifierref="RES-4D7D046E-D6AA-CD8C-E6EE-73BFD4BB6E65">
+            <title>Motorwagen 4 x 2 Vollluft: Änderung der Beladung</title>
+          </item>
+          <item identifier="ITEM-B42C370A-6506-DB48-0DFE-C1E2D462EB29" isvisible="true" identifierref="RES-534F6E6C-C47D-2264-DA62-6676DF4C6AB6">
+            <title>Aufgabe: Änderung der Beladung</title>
+          </item>
+          <item identifier="ITEM-BC0958D9-CE44-BF1D-AFB1-AFE7C471DC0F" isvisible="true" identifierref="RES-E07818B3-F456-61E1-3797-628159590B80">
+            <title>Motorwagen 4 x 2 Vollluft: Heben und Senken per Bedieneinheit</title>
+          </item>
+        </item>
+        <item identifier="ITEM-953AB594-0F05-2C5D-C9B3-7FA7A3CB4B63" isvisible="true" identifierref="RES-C7C7104F-760D-4360-8561-F7D58BFC8E65">
+          <title>ECAS im Anhänger</title>
+          <item identifier="ITEM-4C327351-78CD-279F-6D6C-599B809044FE" isvisible="true" identifierref="RES-9AF08D6E-0681-429F-DD2E-F51E4DDAC59E">
+            <title>Beispiel Systemaufbau: Sattelanhänger mit Liftachse</title>
+          </item>
+          <item identifier="ITEM-CB7F51AF-5800-1200-918A-1CB0720D7456" isvisible="true" identifierref="RES-4371823E-7C71-34BA-1E40-A79F40C2EFEC">
+            <title>Sattelanhänger mit Liftachse: Heben und Senken per Bedieneinheit</title>
+          </item>
+          <item identifier="ITEM-F9F62B75-34BF-F295-C836-3952B6FCF632" isvisible="true" identifierref="RES-1CE72370-EC04-F504-86B9-45BB2659E18F">
+            <title>Sattelanhänger mit Liftachse: Heben und Senken der Liftachse</title>
+          </item>
+          <item identifier="ITEM-541822D9-D532-A8C2-76F1-4299F56C84B6" isvisible="true" identifierref="RES-41FA99C9-02A2-FEBE-0EE1-3654D2D46E5D">
+            <title>Aufgabe: Änderung der Beladung</title>
+          </item>
+        </item>
+        <item identifier="ITEM-0C99E624-49C2-58E4-A77C-B4E7E8921AB1" isvisible="true" identifierref="RES-49EA8C87-BD0B-985B-63F4-039C13CBF928">
+          <title>ECAS im Omnibus</title>
+          <item identifier="ITEM-0D7CC0D2-F0A8-1672-0E0E-E216C9F0FFAB" isvisible="true" identifierref="RES-F4634AAA-15F8-CE5F-8EC5-7CCE2BE6CBFA">
+            <title>Beispiel Systemaufbau: Solo-Bus</title>
+          </item>
+          <item identifier="ITEM-4DB5A47E-FBB6-0F8F-93EB-F1E64DA3B69B" isvisible="true" identifierref="RES-8F7F7D0E-F6D9-D933-D0F0-5C301476EAB9">
+            <title>Solo-Bus: Kneeling</title>
+          </item>
+          <item identifier="ITEM-90E86A20-4840-DFD0-A574-F69FCF1D5D32" isvisible="true" identifierref="RES-039203A9-1DB2-DC58-A3D0-345F3790DC30">
+            <title>Ralph ...</title>
+          </item>
+        </item>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-4D7CDFF6-8A0D-F448-EF22-4ED7E5BBF064" type="webcontent" href="sco_ecas_0047.htm">
+      <file href="sco_ecas_0047.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-01D4752C-1E1D-6A3C-F854-3AFE32DF2D27" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0048.htm">
+      <file href="sco_ecas_0048.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-E9395E36-FD9E-839B-44AC-711DA81BBCA6" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0049.htm">
+      <file href="sco_ecas_0049.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-4528604B-5299-8B91-1774-A6D40209495D" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0050.htm">
+      <file href="sco_ecas_0050.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-F7164F0C-B025-9DED-E42A-CF1D21057E81" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0051.htm">
+      <file href="sco_ecas_0051.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-AE28D3B4-125B-0502-C471-DA5E55958C2C" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0052.htm">
+      <file href="sco_ecas_0052.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-3C20A1DE-EC4C-9E81-C0F2-9BCF604B3A15" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0053.htm">
+      <file href="sco_ecas_0053.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-2E228A28-5EDC-B238-D5E2-C64A9773BF70" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0054.htm">
+      <file href="sco_ecas_0054.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-AE0BCAC4-6BEF-245F-65D9-9929288F767A" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0055.htm">
+      <file href="sco_ecas_0055.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-54FC389A-6368-AD55-6CA7-7CAA1E619D3D" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0056.htm">
+      <file href="sco_ecas_0056.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-48DA992D-A705-99CD-B7D9-7614E7B5677E" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0057.htm">
+      <file href="sco_ecas_0057.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-256E23AF-2F2C-CB5C-93D0-A35355D04BB6" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0058.htm">
+      <file href="sco_ecas_0058.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-9696B281-A1B9-C737-2630-C86F16607400" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0059.htm">
+      <file href="sco_ecas_0059.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-E0446A0A-8082-1513-AECA-917339A4BED5" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0060.htm">
+      <file href="sco_ecas_0060.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-E5E39717-360C-1121-4345-3A8CE49555FA" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0061.htm">
+      <file href="sco_ecas_0061.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-68A32BE6-EFA5-E529-CB87-B5EBFAFBD9F1" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0062.htm">
+      <file href="sco_ecas_0062.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-F18690F9-1944-FB73-C8D9-94D9B0342D20" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0063.htm">
+      <file href="sco_ecas_0063.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-D2D3EB0E-E8F9-4970-7B77-9DB77A195C50" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0064.htm">
+      <file href="sco_ecas_0064.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-EE0846AD-94DF-D8A4-03E1-321ADDE6D6B8" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0065.htm">
+      <file href="sco_ecas_0065.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-703F2522-3080-1FEB-AFA3-CE780B42E945" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0066.htm">
+      <file href="sco_ecas_0066.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-A9C169DF-637C-9CA9-3329-6FEE83EECF86" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0067.htm">
+      <file href="sco_ecas_0067.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-44831A9D-25EC-A52A-1F17-1DE9D72DFE08" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0068.htm">
+      <file href="sco_ecas_0068.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-99537AF6-15C0-CB16-8C99-65CFB912088B" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0070.htm">
+      <file href="sco_ecas_0070.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-303ED36E-8850-4B20-5F66-2944ABE3A8EA" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0069.htm">
+      <file href="sco_ecas_0069.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-5C319E5B-0E3E-A6AD-4EBC-60BDE2D5AC36" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0071.htm">
+      <file href="sco_ecas_0071.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-104A6D9D-F33D-3AF9-B82B-217518669B9E" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0072.htm">
+      <file href="sco_ecas_0072.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-96A893E1-4865-38C6-F967-CA2A05E927A3" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0073.htm">
+      <file href="sco_ecas_0073.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-2EC52DD7-29D4-7BFE-24FC-1C877EDDF1E7" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0074.htm">
+      <file href="sco_ecas_0074.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-9E7CBDCA-5518-C88C-D111-E5A1FDE035B0" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0075.htm">
+      <file href="sco_ecas_0075.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-21724868-D9A3-4B3D-D705-A16AC19D062B" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0076.htm">
+      <file href="sco_ecas_0076.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-03BA4477-2B18-DD5B-5B69-9182984588E7" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0077.htm">
+      <file href="sco_ecas_0077.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-2D8AF6DC-D71F-EEFF-ADD5-56EC65879C98" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0078.htm">
+      <file href="sco_ecas_0078.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-A823467C-8151-D9A0-1079-A5DD601B7F46" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0079.htm">
+      <file href="sco_ecas_0079.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-5C109703-E9B1-EAD1-C4AD-81E1A55FB706" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0080.htm">
+      <file href="sco_ecas_0080.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-844DA2BA-83EE-502C-0727-6D70C11C573C" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0081.htm">
+      <file href="sco_ecas_0081.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-A9842752-8E28-43B0-1066-B0986F5DBAD2" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0082.htm">
+      <file href="sco_ecas_0082.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-FB981317-DC75-6FD8-DA82-D8E022130C05" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0083.htm">
+      <file href="sco_ecas_0083.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-0E856FE2-C608-3E13-3000-593109F4E959" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0084.htm">
+      <file href="sco_ecas_0084.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-EF625049-5F0F-C3FD-8F3F-BF9D3A0ADF7F" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0085.htm">
+      <file href="sco_ecas_0085.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-F6BA1EC7-79FE-FB0A-312B-F8F66903840A" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0086.htm">
+      <file href="sco_ecas_0086.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-3BC7E783-A85D-D4BF-0D8B-BE38BDA2EB83" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0087.htm">
+      <file href="sco_ecas_0087.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-8DD5610B-9819-0EF8-C05B-0F791738D4E5" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0088.htm">
+      <file href="sco_ecas_0088.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-3B7A0AEA-7A5E-82A6-18B5-18BE2FE1B2E1" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0089.htm">
+      <file href="sco_ecas_0089.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-965F0D74-0C5F-1444-5948-A18E3AA3B8FA" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0090.htm">
+      <file href="sco_ecas_0090.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-E6572D5D-D8F6-B019-93EC-8F3B5463109C" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0091.htm">
+      <file href="sco_ecas_0091.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-46F7C08E-4AAD-E223-8DD9-B4ED4930FA10" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0092.htm">
+      <file href="sco_ecas_0092.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-FD372028-8195-76C5-718C-F06A9346CC01" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0093.htm">
+      <file href="sco_ecas_0093.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-6C1F0396-A2E3-E622-58DA-728868D72600" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0094.htm">
+      <file href="sco_ecas_0094.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-BF67DD62-0228-288B-E68E-DF132ECF44CD" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0095.htm">
+      <file href="sco_ecas_0095.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-B27B218A-D7DA-F014-FFD0-00159BB6EDEF" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0096.htm">
+      <file href="sco_ecas_0096.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-948E1285-97E0-5B17-D6BF-EAF37ABBA3C0" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0097.htm">
+      <file href="sco_ecas_0097.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-C6F3B119-8DC7-3DA6-D2B7-866B1A6AF6F2" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0098.htm">
+      <file href="sco_ecas_0098.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-723E63BB-10B4-41FD-994F-BBDC1D071489" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0099.htm">
+      <file href="sco_ecas_0099.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-84803A86-54C7-6660-1343-60D269952AD5" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0100.htm">
+      <file href="sco_ecas_0100.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-07EF4683-B038-C4FB-4177-7102F37E4757" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0101.htm">
+      <file href="sco_ecas_0101.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-C7C36551-F323-F5B7-62E4-CB3357A0077E" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0102.htm">
+      <file href="sco_ecas_0102.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-B2CB80CC-C597-F1B0-2192-2912ABF141A1" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0103.htm">
+      <file href="sco_ecas_0103.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-07AFD963-6417-2C96-C82E-09F5ED94597C" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0104.htm">
+      <file href="sco_ecas_0104.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-228F2FF5-C781-314D-3D9C-DE8B5E03CD46" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0105.htm">
+      <file href="sco_ecas_0105.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-92E0AA6F-6FDC-0C1C-FD60-7DF7B89F123C" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0106.htm">
+      <file href="sco_ecas_0106.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-8CC03BB8-F7EB-8150-24DE-48D1811CA7F6" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0107.htm">
+      <file href="sco_ecas_0107.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-69A59F07-4C19-DD8E-C2A6-FF5FA74DF7B3" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0108.htm">
+      <file href="sco_ecas_0108.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-1CD9CF86-CCAC-4C61-9F64-BC493F3CC110" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0109.htm">
+      <file href="sco_ecas_0109.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-865E7DBE-8A7F-27EC-8BB4-0759BBA81223" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0110.htm">
+      <file href="sco_ecas_0110.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-B952E22E-CE82-9739-76F2-C9CB2E590FC0" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0111.htm">
+      <file href="sco_ecas_0111.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-4D7D046E-D6AA-CD8C-E6EE-73BFD4BB6E65" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0112.htm">
+      <file href="sco_ecas_0112.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-534F6E6C-C47D-2264-DA62-6676DF4C6AB6" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0113.htm">
+      <file href="sco_ecas_0113.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-E07818B3-F456-61E1-3797-628159590B80" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0114.htm">
+      <file href="sco_ecas_0114.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-C7C7104F-760D-4360-8561-F7D58BFC8E65" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0115.htm">
+      <file href="sco_ecas_0115.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-9AF08D6E-0681-429F-DD2E-F51E4DDAC59E" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0116.htm">
+      <file href="sco_ecas_0116.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-4371823E-7C71-34BA-1E40-A79F40C2EFEC" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0117.htm">
+      <file href="sco_ecas_0117.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-1CE72370-EC04-F504-86B9-45BB2659E18F" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0118.htm">
+      <file href="sco_ecas_0118.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-41FA99C9-02A2-FEBE-0EE1-3654D2D46E5D" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0119.htm">
+      <file href="sco_ecas_0119.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-49EA8C87-BD0B-985B-63F4-039C13CBF928" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0120.htm">
+      <file href="sco_ecas_0120.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-F4634AAA-15F8-CE5F-8EC5-7CCE2BE6CBFA" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0121.htm">
+      <file href="sco_ecas_0121.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-8F7F7D0E-F6D9-D933-D0F0-5C301476EAB9" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0122.htm">
+      <file href="sco_ecas_0122.htm" />
+      <file href="sco.js" />
+    </resource>
+    <resource identifier="RES-039203A9-1DB2-DC58-A3D0-345F3790DC30" type="webcontent" adlcp:scormtype="sco" href="sco_ecas_0123.htm">
+      <file href="sco_ecas_0123.htm" />
+      <file href="sco.js" />
+    </resource>
+  </resources>
+</manifest>
+
