@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0074_1.swf" language="en">
+<tf desc="mc" ref="1" fs="13" x="189.85" y="133.5" wi="352.15" he="52.5">
+The integrated computer calculates on the basis of the input signals and the stored parameter values how the connected ECAS solenoid valves have to be actuated.</tf>
+<tf desc="mc" ref="2" fs="13" x="189.85" y="203.5" wi="339.1" he="51.5">
+The program executed by the ECAS ECU is stored into the ECU using the PC diagnosis and can also be changed this way.</tf>
+<tf desc="mc" ref="3" fs="13" x="189.85" y="268.5" wi="360.15" he="37.5">
+The calculations of the ECU are performed using parameter values which are unchangeably stored in a ROM module.</tf>
+<tf desc="mc" ref="4" fs="13" x="189.85" y="323.5" wi="338.15" he="41.5">
+The ECAS ECU allows to access the stored messages and parameters by means of PC diganosis.</tf>
+<tf desc="mc" ref="8" fs="12" x="158.5" y="395.5" wi="204.05" he="24">
+Confirm your selection with</tf>
+<tf desc="mc" ref="10" fs="13" x="157.25" y="432.5" wi="63.95" he="21">
+[ Ready ]</tf>
+<tf desc="mc" ref="21" fs="13" x="158.85" y="75" wi="395.95" he="18.5">
+Mark all right statements about the ECAS ECU.</tf>
+<tf desc="mc" ref="fb1" fs="13" x="1002.45" y="16.85" wi="322" he="37">
+This statement is correct, it describes the main task of the ECAS ECU.</tf>
+<tf desc="mc" ref="fb2" fs="13" x="1004.45" y="74.85" wi="353" he="51.5">
+That is wrong. The program is stored in a ROM module of the ECU and cannot be changed after delivery.</tf>
+<tf desc="mc" ref="fb3" fs="13" x="1005.45" y="150.85" wi="333" he="52">
+This statement is wrong. The parameters are stored in a writable memory and can be changed any time by means of the PC diagnosis.</tf>
+<tf desc="mc" ref="fb4" fs="13" x="1010.45" y="227.85" wi="306" he="51.5">
+That´s true. By means of PC diagnosis stored messages can be read and parameters can be changed.</tf>
+<tf desc="mc" ref="fb5" fs="13" x="1002.45" y="-69.1" wi="376" he="23">
+This is correct. You recognized the two right statements.</tf>
+</textfields>

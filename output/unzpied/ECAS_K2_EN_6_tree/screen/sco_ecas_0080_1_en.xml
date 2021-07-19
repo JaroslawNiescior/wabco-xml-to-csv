@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0080_1.swf" language="en">
+<tf desc="mc" ref="2" fs="13" x="146.45" y="287" wi="290.5" he="23">
+Angle sensor with cross piece, dismounted ...</tf>
+<tf desc="mc" ref="4" fs="13" x="441.45" y="287" wi="263.05" he="35">
+... and installed</tf>
+</textfields>

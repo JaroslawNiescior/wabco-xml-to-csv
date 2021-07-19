@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<audios file="sco_ecas_0121_1.swf" language="en">
+<au ref="1">
+Concerning ECAS for busses mainly the systems for solo bus and articulated bus have to be distinguished.
+This is the diagram of an ECAS system for the solo bus.
+</au>
+<au ref="2">
+It is similar to a full air system for 4x2 motor vehicles. The main differences are induced by the implemented kneeling function, which means that the ECAS system is able to lower the superstructure on one side only, both at front and rear.
+</au>
+<au ref="3">
+For this a special valve block is required, where the supporting bellows of the front axle can be pneumatically separated, when needed.
+</au>
+<au ref="4">
+The kneeling process is triggered using a kneeling switch which is placed near to the driver.
+</au>
+<au ref="5">
+The actual state is indicated on the display.
+</au>
+<au ref="6">
+The kneeling control is performed using a specially designed ECAS ECU.
+</au>
+</audios>

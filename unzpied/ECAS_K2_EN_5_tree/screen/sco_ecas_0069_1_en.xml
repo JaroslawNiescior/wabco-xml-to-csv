@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0069_1.swf" language="en">
+<tf desc="mc" ref="2" fs="13" x="158.45" y="307" wi="281.05" he="23">
+Kneeling:</tf>
+<tf desc="mc" ref="3" fs="13" x="158.45" y="339" wi="252.5" he="40">
+The entrance side is lowered to facilitate getting on and off the bus.</tf>
+</textfields>

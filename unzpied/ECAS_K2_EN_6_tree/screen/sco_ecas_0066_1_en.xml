@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0066_1.swf" language="en">
+<tf desc="mc" ref="5" fs="12" x="279.5" y="169.15" wi="100.5" he="33.8">
+Reference level when unladen</tf>
+<tf desc="mc" ref="9" fs="12" x="587.5" y="169.15" wi="100.5" he="36.8">
+Reference level when loaded</tf>
+<tf desc="mc" ref="19" fs="13" x="156.45" y="324" wi="281.05" he="23">
+Tyre deflection compensating:</tf>
+<tf desc="mc" ref="21" fs="13" x="186.45" y="357" wi="277.5" he="37">
+The ride clearance is increased by the amount of the tyre deflection.</tf>
+<tf desc="mc" ref="22" fs="13" x="186.45" y="400" wi="277.5" he="38">
+Thus the height of the shipping space can be increased.</tf>
+</textfields>

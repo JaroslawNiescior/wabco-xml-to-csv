@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<audios file="sco_ecas_0079_2.swf" language="en">
+<au ref="1">
+Inside of the sensor the rotational movement of the lever is transformed to a linear movement of the armature. Due to the dipping movement of the armature into the stationary coil, a phase displacement between current and voltage is caused. The ECU measures the current displacement and converts it into counts.
+</au>
+<au ref="2">
+The dipping of the armature into the coil increases the inductance, the inverse movement reduces the inductance. Consequently, during PC diagnosis, the count values of the sensor must increase when the superstructure is raised, and decrease as long it is lowered.
+</au>
+<au ref="3">
+Otherwise the mounting position of the lever on the sensor has to be changed.
+</au>
+<au ref="4">
+The height sensor function cannot be tested using a voltage meter!
+</au>
+</audios>

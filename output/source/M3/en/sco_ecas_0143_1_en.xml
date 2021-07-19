@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
-<textfields file="sco_ecas_0143_1.swf" language="en">
-<tf desc="mc" ref="2" fs="12" x="211.5" y="285.5" wi="281.05" he="23">
-Information is read from the ECU</tf>
-<obj desc="mc" ref="3" x="323.5" y="341.15" wi="29" he="38.25"/>
-</textfields>

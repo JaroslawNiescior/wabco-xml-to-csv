@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<audios file="sco_ecas_0060_1.swf" language="en">
+<au ref="1">
+If unevenly distributed loads have to be expected the vehicle should be equipped with 2 seperate control circuits. Thus the supporting bellows of the rear axle can be regulated independently of each other and the superstructure can be kept parallel to the axle.
+</au>
+<au ref="2">
+This ECAS function is referred to as "Lateral stabilisation". Please note, that for this feature the axle has to be equipped with 2 height sensors.
+</au>
+</audios>

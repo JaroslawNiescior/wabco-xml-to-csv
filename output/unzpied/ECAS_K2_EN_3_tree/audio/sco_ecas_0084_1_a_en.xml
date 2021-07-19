@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<audios file="sco_ecas_0084_1.swf" language="en">
+<au ref="1">
+With ECAS several solenoid valves or valve blocks are used, developed for different requirements.
+</au>
+<au ref="2">
+This ECAS rear axle valve is able to pressurize or vent the left and the right supporting bellows of a rear axle, according to the control commands of the ECAS ECU.
+</au>
+<au ref="3">
+When 2 height sensors have been installed, the superstructure can be kept parallel to the axle even when the load is one-sided. To do so, different pressures are used for the bellows on the left and right . This in also referred to as 2-point-control.
+</au>
+</audios>

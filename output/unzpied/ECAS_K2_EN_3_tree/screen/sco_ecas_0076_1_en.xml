@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0076_1.swf" language="en">
+<tf desc="mc" ref="2" fs="13" x="157.45" y="287" wi="263.05" he="35">
+ECAS ECU für trailers with EBS,
+opened  (446 055 066 0)</tf>
+<tf desc="mc" ref="4" fs="13" x="441.45" y="287" wi="263.05" he="35">
+ECAS ECU für trailers with ABS, 
+installed  (446 055 065 0)</tf>
+<tf desc="mc" ref="6" fs="13" x="157.45" y="357" wi="281.05" he="23">
+ECAS ECU for trailers:</tf>
+<tf desc="mc" ref="21" fs="13" x="187.45" y="387" wi="307.05" he="22">
+Universally applicable</tf>
+<tf desc="mc" ref="22" fs="13" x="187.45" y="410" wi="336.1" he="19">
+Two variants: For ABS trailers or trailers with EBS</tf>
+</textfields>

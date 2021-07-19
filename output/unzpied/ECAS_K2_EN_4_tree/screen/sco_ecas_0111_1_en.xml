@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0111_1.swf" language="de">
+<tf desc="mc" ref="201" fs="20" x="168.5" y="451.5" wi="57.05" he="29">
+FA
+</tf>
+<tf desc="mc" ref="202" fs="20" x="504.5" y="451.5" wi="57.05" he="29">
+RA
+</tf>
+</textfields>

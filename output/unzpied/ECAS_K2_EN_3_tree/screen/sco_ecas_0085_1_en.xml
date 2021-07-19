@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0085_1.swf" language="en">
+<tf desc="mc" ref="1" fs="13" x="279.85" y="145.5" wi="393.1" he="36">
+For a 2-point control this rear axle valve has to be installed on each side of the rear axle.
+</tf>
+<tf desc="mc" ref="2" fs="13" x="279.85" y="199.5" wi="372.1" he="35">
+Using such a rear axle valve two air suspension bellows can be controlled independently of each other.
+</tf>
+<tf desc="mc" ref="3" fs="13" x="279.85" y="253.5" wi="404.1" he="37">
+The rear axle valve contains a central solenoid valve which is also used to pressurize or vent a connected front axle valve.
+</tf>
+<tf desc="mc" ref="4" fs="13" x="279.85" y="307.5" wi="386.1" he="35.95">
+To vent the air suspension bellows all internal solenoids are switched off.
+</tf>
+<tf desc="mc" ref="8" fs="12" x="248.5" y="380.5" wi="163.05" he="22">
+Please confirm with
+</tf>
+<tf desc="mc" ref="10" fs="13" x="247.25" y="417.5" wi="61.95" he="24">
+[ Ready ]
+</tf>
+<tf desc="mc" ref="21" fs="13" x="248.85" y="77" wi="421.95" he="43">
+Which statements about the mode of operation of the ECAS rear axle valve for 2-point control are correct?
+</tf>
+<tf desc="mc" ref="fb1" fs="13" x="1002.45" y="36.85" wi="327" he="58">
+This statement is wrong. Such a rear axle valve can serve both sides of the rear axle. Therefore one instance is sufficient.
+</tf>
+<tf desc="mc" ref="fb2" fs="13" x="1002.45" y="164.85" wi="315" he="57">
+This is correct. It's internally equipped with two solenoid valves to be able to control each air suspension bellow separately.
+</tf>
+<tf desc="mc" ref="fb3" fs="13" x="1002.45" y="277.85" wi="303" he="43.95">
+This statement is true. To do so, the front axle valve is connected to port 21 of the valve.
+</tf>
+<tf desc="mc" ref="fb4" fs="13" x="1002.45" y="388.85" wi="364" he="71">
+That's wrong. When all solenoid valves are switched off, the lines to the bellows are closed. For venting, only the central valve is switched off and the valve of each bellow is actuated.
+</tf>
+<tf desc="mc" ref="fb5" fs="13" x="1002.45" y="-18.15" wi="334" he="24">
+Right, you recognized the appropriate statements.
+</tf>
+</textfields>

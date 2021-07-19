@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0093_1.swf" language="en">
+<tf desc="mc" ref="2" fs="12" x="158.5" y="56.5" wi="218.1" he="38">
+Please try to raise the lifting axle using the remote-control unit.</tf>
+<tf desc="mc" ref="4" fs="13" x="189.45" y="107.05" wi="100.5" he="18.9">
+Operating steps</tf>
+<tf desc="mc" ref="62" fs="13" x="500.5" y="68" wi="192.05" he="88">
+Preselect lifting axle
+
+Push RAISE button
+
+Unselect lifting axle</tf>
+<obj desc="mc" ref="5" x="188" y="108.05" wi="100" he="17.95"/>
+</textfields>

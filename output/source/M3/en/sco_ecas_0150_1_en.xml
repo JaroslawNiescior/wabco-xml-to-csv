@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
-<textfields file="sco_ecas_0150_1.swf" language="en">
-<tf desc="mc" ref="11" fs="13" x="520.5" y="55" wi="155" he="74">
-Raising and lowering can be separately tested for each ECAS control loop.</tf>
-<tf desc="mc" ref="39" fs="13" x="520.5" y="144" wi="182.05" he="75">
-By means of the function "Lamp test" in the motor vehicle several lamp outputs can be checked.</tf>
-<tf desc="mc" ref="41" fs="13" x="520.5" y="429" wi="183.05" he="57">
-In the trailer the ECAS signal lamp should always flash during diagnosis.</tf>
-</textfields>

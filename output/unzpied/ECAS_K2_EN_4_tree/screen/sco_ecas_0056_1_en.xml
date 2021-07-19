@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0056_1.swf" language="en">
+<tf desc="mc" ref="2" fs="13" x="169.45" y="387" wi="308.05" he="18.5">
+Memory levels:
+</tf>
+<tf desc="mc" ref="7" fs="12" x="514.5" y="214.15" wi="131.05" he="17.7">
+e.g. memory level 1
+</tf>
+<tf desc="mc" ref="21" fs="13" x="199.45" y="417" wi="304.1" he="22">
+Adjustable and selectable by the driver at any time
+</tf>
+<tf desc="mc" ref="22" fs="13" x="199.45" y="444" wi="205.05" he="18.5">
+Remain stored in the ECU
+</tf>
+</textfields>

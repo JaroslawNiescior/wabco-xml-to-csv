@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0067_1.swf" language="en">
+<tf desc="mc" ref="1" fs="13" x="189.85" y="133.5" wi="342.1" he="35">
+When the vehicle is unladen the ride clearance is greater than when loaded.</tf>
+<tf desc="mc" ref="2" fs="13" x="189.85" y="199.5" wi="339.1" he="42">
+This function enshures that the ground clearance is sufficient even when the tyre pressure is low.</tf>
+<tf desc="mc" ref="3" fs="13" x="189.85" y="264.5" wi="342.1" he="35">
+Thus the shipping space of a trailer can be a bit larger as it could be without this ECAS function.</tf>
+<tf desc="mc" ref="4" fs="13" x="189.85" y="328.5" wi="340.1" he="35">
+Due to this function the overall height of the loaded vehicle is smaller than when unladen.</tf>
+<tf desc="mc" ref="8" fs="12" x="158.5" y="403.5" wi="204.05" he="24">
+Confirm your selection with</tf>
+<tf desc="mc" ref="10" fs="13" x="157.25" y="440.5" wi="63.95" he="21">
+[ Ready ]</tf>
+<tf desc="mc" ref="21" fs="13" x="158.85" y="73" wi="332.95" he="40">
+Please mark the right statements about the ECAS function "tyre deflection compensating".</tf>
+<tf desc="mc" ref="fb1" fs="13" x="1002.45" y="16.85" wi="365" he="61">
+This statement is true. The ride clearance is increased by the same value as the tyres are deflected due to the load weight.</tf>
+<tf desc="mc" ref="fb2" fs="13" x="1008.45" y="116.85" wi="372" he="51.5">
+This statement is wrong. The tyre deflection compensating serves the aim to increase the height of the shipping space.</tf>
+<tf desc="mc" ref="fb3" fs="13" x="1009.45" y="193.85" wi="346" he="53">
+This is correct. If the vehicle is unladen the ride clearance is kept very short to enable an increased overall height.</tf>
+<tf desc="mc" ref="fb4" fs="13" x="1011.45" y="259.85" wi="330" he="35">
+That´s not true. The overall height remains the same regardless of the load weight.</tf>
+<tf desc="mc" ref="fb5" fs="13" x="1002.45" y="-69.1" wi="331" he="25">
+Exactly, you marked all right statements.</tf>
+</textfields>

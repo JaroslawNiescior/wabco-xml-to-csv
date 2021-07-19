@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<audios file="sco_ecas_0116_1.swf" language="en">
+<au ref="1">
+This is the diagram of an ECAS system for a semitrailer equipped with a lifting axle.
+The main components of the system are in the first place the ECAS ECU ...
+</au>
+<au ref="2">
+which is powered via the ABS or the EBS ECU.
+</au>
+<au ref="3">
+Further the ECAS valve block for the rear and lifting axles, which pressurizes or vents all supporting bellows ...
+</au>
+<au ref="4">
+... as well as the lifting bellows to raise and lower the lifting axle. Only one of them is depicted here.
+</au>
+<au ref="5">
+The actual level of the load platform is measured by only one centrally placed height sensor.
+</au>
+<au ref="6">
+The ECAS warning lamp is switched on, as soon as the superstructure left the driving level, or in the case of a failure.
+</au>
+<au ref="7">
+Finally, a pressure sensor detects the bellows pressure of the main axle. When this pressure exceeded a parameterized value, the lifting axle may be automatically lowered. When falling below a certain bellows pressure, it may be automatically raised.
+</au>
+</audios>

@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
-<textfields file="sco_ecas_0137_2.swf" language="en">
-<tf desc="mc" ref="3" fs="13" x="576.2" y="279.5" wi="103.75" he="88.5">
-After entering your user name and password the download can be started.</tf>
-<obj desc="mc" ref="6" x="133.9" y="278.5" wi="38.25" he="29"/>
-</textfields>

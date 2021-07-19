@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<audios file="sco_ecas_0114_1.swf" language="en">
+<au ref="1">
+By means of the remote-control unit a freely choosable reference level can be defined.
+To raise the whole superstructure, the front and the rear axle are preselected.
+</au>
+<au ref="2">
+As long as the RAISE button is pressed, the supporting bellows front and rear ar pressurized and the superstructure is raised.
+</au>
+<au ref="3">
+The lighting of the ECAS warning lamp indicates, that the superstructure has left the current driving level.
+</au>
+<au ref="4">
+As long as the LOWER button is pressed, all supporting bellows are vented and the superstructure is lowered.
+</au>
+<au ref="5">
+The superstructure returns to driving level at a push on the driving level button.
+</au>
+<au ref="6">
+The ECAS warning lamp goes out as soon as the driving level is achieved again.
+</au>
+</audios>

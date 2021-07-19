@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0057_1.swf" language="en">
+<tf desc="mc" ref="1" fs="13" x="189.85" y="133.5" wi="341.15" he="39.5">
+Using a memory level the height of a ramp can be stored and later on addressed again on the tip of a button.</tf>
+<tf desc="mc" ref="2" fs="13" x="189.85" y="186.5" wi="367.1" he="51.5">
+On dump vehicles, an appropriate unloading level may be automatically achieved, to protect the stops when load material is quickly spilled.</tf>
+<tf desc="mc" ref="3" fs="13" x="189.85" y="251.5" wi="366.05" he="51.5">
+The unloading level is specified by parameterizing, whereas the memory levels are defined using the ECAS remote-control unit.</tf>
+<tf desc="mc" ref="4" fs="13" x="189.85" y="315.5" wi="365.05" he="53.95">
+A so called unloading level is "forgotten", when the ignition is switched off, whereas the memory levels are permanently stored in the ECU.</tf>
+<tf desc="mc" ref="8" fs="12" x="158.5" y="403.5" wi="204.05" he="24">
+Confirm your selection with</tf>
+<tf desc="mc" ref="10" fs="13" x="157.25" y="440.5" wi="63.95" he="21">
+[ Ready ]</tf>
+<tf desc="mc" ref="21" fs="13" x="158.85" y="65" wi="361.95" he="36">
+Mark the correct statements regarding the ECAS unloading level and the memory levels.</tf>
+<tf desc="mc" ref="fb1" fs="13" x="1002.45" y="16.85" wi="315" he="38">
+That´s correct, exactly for this purpose the memory levels provided by ECAS are mainly used.</tf>
+<tf desc="mc" ref="fb2" fs="13" x="1001.45" y="64.85" wi="397" he="69">
+This statement is right. Raising the dump body may actuate a switch to automatically lower it to a deeper unloading level. Even when load material is spilled quickly, a hard bumping is avoided.</tf>
+<tf desc="mc" ref="fb3" fs="13" x="1005.45" y="152.85" wi="273" he="37">
+This statement is correct: Only the memory levels are changable by the driver.</tf>
+<tf desc="mc" ref="fb4" fs="13" x="1004.45" y="202.85" wi="284" he="58">
+That´s not the case. Even the unloading level is permanently stored in the ECU like all other ECAS parameters.</tf>
+<tf desc="mc" ref="fb5" fs="13" x="1008.45" y="-18.15" wi="331" he="25">
+Exactly, you detected all appropriate statements.</tf>
+</textfields>

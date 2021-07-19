@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0076_3.swf" language="en">
+<tf desc="mc" ref="3" fs="13" x="561.45" y="225" wi="101.05" he="22">
+"Water trap"
+</tf>
+<tf desc="mc" ref="7" fs="13" x="157.45" y="317" wi="281.05" he="23">
+Important installation rules:
+</tf>
+<tf desc="mc" ref="21" fs="13" x="187.45" y="347" wi="307.05" he="22">
+Take notice of the TOP sign
+</tf>
+<tf desc="mc" ref="22" fs="13" x="187.45" y="370" wi="398.1" he="18.5">
+Two variants: for ABS trailers and trailers with EBS
+</tf>
+<tf desc="mc" ref="23" fs="13" x="187.45" y="394" wi="363.1" he="21">
+Cable routing from below to top, or forming a "water trap"
+</tf>
+</textfields>

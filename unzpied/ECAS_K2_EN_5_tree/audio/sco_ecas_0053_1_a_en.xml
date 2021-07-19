@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<audios file="sco_ecas_0053_1.swf" language="en">
+<au ref="1">
+Depending on the installed variant of the ECAS ECU, two additional driving levels II and III can be defined via parameterizing, or a driving level II plus an unloading level. All these level are specified in counts, as differences to driving level I.
+</au>
+<au ref="2">
+The driving levels II and III are triggered by a switch, using the ECAS remote-control unit or - in the case of driving level II - depending on the vehicle speed.
+</au>
+<au ref="3">
+These different driving levels are addressed at higher speeds for instance, to save fuel due to the reduced air resistance.
+</au>
+</audios>

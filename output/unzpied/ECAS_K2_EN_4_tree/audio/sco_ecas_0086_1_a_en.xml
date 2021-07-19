@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<audios file="sco_ecas_0086_1.swf" language="en">
+<au ref="1">
+This ECAS valve block consists of a rear axle block and a lifting axle block, which cooperate closely.
+</au>
+<au ref="2">
+The rear axle block provides a 2-point control, which means, that the left and the right supporting bellow of the main axle can be separately pressurized and vented. Also the supporting bellows of the first lifting axle are indirectly pressurized and vented, when lowered.
+</au>
+<au ref="3">
+The lifting axle block pressurizes and vents the lifting bellow. When raising the lifting axle, the block vents the supporting bellows of the lifting axle after pneumatically separating them from the bellows of the main axle.
+</au>
+</audios>

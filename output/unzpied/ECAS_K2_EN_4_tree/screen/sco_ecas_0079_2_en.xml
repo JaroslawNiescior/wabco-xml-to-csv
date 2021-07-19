@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0079_2.swf" language="en">
+<tf desc="mc" ref="3" fs="13" x="295.75" y="130.5" wi="81.05" he="23">
+ECAS ECU</tf>
+<tf desc="mc" ref="6" fs="16" x="457.5" y="68" wi="103.05" he="24">
+counts</tf>
+<tf desc="mc" ref="7" fs="13" x="448.5" y="242" wi="209.55" he="39">
+The height sensor function cannot be tested using a voltage meter!</tf>
+</textfields>

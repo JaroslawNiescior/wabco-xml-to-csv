@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0068_1.swf" language="en">
+<tf desc="mc" ref="3" fs="13" x="358.45" y="280" wi="281.05" he="23">
+Standby function
+</tf>
+<tf desc="mc" ref="4" fs="13" x="166.45" y="456" wi="170.05" he="18.5">
+Battery box on the trailer
+</tf>
+<tf desc="mc" ref="21" fs="13" x="388.45" y="310" wi="294.1" he="35">
+When the ignition is switched off ECAS continues to regulate the last desired level.
+</tf>
+<tf desc="mc" ref="22" fs="13" x="388.45" y="353" wi="231.05" he="35">
+Preconditions: batteries in the trailer and sufficient air supply
+</tf>
+<tf desc="mc" ref="23" fs="13" x="388.45" y="397" wi="264.1" he="35">
+More than 60 hours standby operation can be achieved.
+</tf>
+</textfields>

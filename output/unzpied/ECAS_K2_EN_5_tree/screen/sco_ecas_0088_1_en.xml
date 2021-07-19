@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0088_1.swf" language="en">
+<tf desc="mc" ref="1" fs="13" x="279.85" y="145.5" wi="393.1" he="36">
+The rear axle block as well as the lifting axle block have their own compressed air supply.</tf>
+<tf desc="mc" ref="2" fs="13" x="279.85" y="199.5" wi="389.15" he="38.5">
+The supporting bellows of the lifting axle and the bellows of the main axle are independently of each other pressurized and vented.</tf>
+<tf desc="mc" ref="3" fs="13" x="279.85" y="252.5" wi="375.1" he="53">
+By means of the lifting axle block it is controlled whether the supporting bellows of the lifting axle are pneumatically connected to the bellows of the main axle or separated.</tf>
+<tf desc="mc" ref="4" fs="13" x="279.85" y="323.5" wi="338.1" he="51.95">
+Due to the 2-point control the connected supporting bellows on the left and on the right side of the vehicle can be independently of each other pressurized and vented.</tf>
+<tf desc="mc" ref="8" fs="12" x="248.5" y="400.5" wi="198.05" he="21">
+Confirm your selection with</tf>
+<tf desc="mc" ref="10" fs="13" x="247.25" y="437.5" wi="61.95" he="24">
+[ Ready ]</tf>
+<tf desc="mc" ref="21" fs="13" x="248.85" y="77" wi="421.95" he="43">
+Which statements about the mode of operation of the ECAS valve block for rear axle and lifting axle are correct?</tf>
+<tf desc="mc" ref="fb1" fs="13" x="1002.45" y="36.8" wi="327" he="58">
+This statement is wrong. The air supply is centrally controlled by a valve in the rear axle block.</tf>
+<tf desc="mc" ref="fb2" fs="13" x="1002.45" y="114.85" wi="315" he="57">
+This statement is wrong. When the lifting axle is lowered the supporting bellows of the lifting axle and the bellows of the main axle are jointly controlled.</tf>
+<tf desc="mc" ref="fb3" fs="13" x="1002.45" y="187.85" wi="364" he="55.95">
+This statement is correct. Depending on the control of the lifting axle block the supporting bellows of the lifting axle and the bellows of the main axle are pneumatically connected or separated.</tf>
+<tf desc="mc" ref="fb4" fs="13" x="1002.45" y="258.85" wi="358" he="75">
+This is true. The left and the right side of this valve block can be separately controlled, only the lifting bellows on both sides are jointly pressurized or vented.</tf>
+<tf desc="mc" ref="fb5" fs="13" x="1002.45" y="-18.15" wi="334" he="24">
+Exactly, you marked the right statements.</tf>
+</textfields>

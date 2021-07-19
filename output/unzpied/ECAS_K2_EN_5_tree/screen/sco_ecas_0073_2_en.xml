@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0073_2.swf" language="en">
+<tf desc="mc" ref="2" fs="18" x="268" y="123" wi="142.05" he="28">
+ECAS ECU
+</tf>
+<tf desc="mc" ref="3" fs="12" x="271" y="214.45" wi="124" he="20">
+Microprocessor
+</tf>
+<tf desc="mc" ref="4" fs="12" x="447.5" y="142.5" wi="109" he="54">
+Program
+in the
+ROM
+</tf>
+<tf desc="mc" ref="5" fs="12" x="452" y="297.05" wi="100" he="52.95">
+Parameters
+in the 
+EEPROM
+</tf>
+<tf desc="mc" ref="9" fs="12" x="433.5" y="430.25" wi="137" he="20">
+PC diagnosis
+</tf>
+</textfields>

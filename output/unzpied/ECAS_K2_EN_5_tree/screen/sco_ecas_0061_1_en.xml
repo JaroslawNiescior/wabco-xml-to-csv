@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0061_1.swf" language="en">
+<tf desc="mc" ref="7" fs="13" x="158.45" y="257" wi="281.05" he="23">
+A lifting axle control is in ECAS integrated:</tf>
+<tf desc="mc" ref="21" fs="13" x="188.45" y="289" wi="416.55" he="41">
+The lifting axle is lowered automatically when the permissible axle load of the main axle is exceeded or when the ignition is switched off.</tf>
+<tf desc="mc" ref="22" fs="13" x="188.45" y="335" wi="399.5" he="36">
+The lifting axle is raised automatically either triggered by unloading, via a switch or using the remote-control unit.</tf>
+<obj desc="mc" ref="11" x="161" y="293" wi="10" he="10"/>
+<obj desc="mc" ref="12" x="161" y="339" wi="10" he="10"/>
+</textfields>

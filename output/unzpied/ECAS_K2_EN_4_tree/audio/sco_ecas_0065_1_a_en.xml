@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<audios file="sco_ecas_0065_1.swf" language="en">
+<au ref="1">
+If a pressure sensor is installed and connected to one of the supporting bellows, an overload protection can be activated via parameterizing. When the bellows pressure exceeds the stored value due to overloading, the superstructure is automatically lowered onto to the lower stops which means onto the rubber buffers of the supporting bellows.
+</au>
+<au ref="2">
+The vehicle shouldn't be driven now, because vehicle and loading can be badly damaged. Instead the vehicle has to be unloaded, until the superstructure can be raised using the remote-control unit.
+</au>
+</audios>

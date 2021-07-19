@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0062_1.swf" language="en">
+<tf desc="mc" ref="5" fs="12" x="39.5" y="259" wi="153.5" he="20">
+Clearance of lifting axle</tf>
+<tf desc="mc" ref="7" fs="12" x="356.5" y="91" wi="145.05" he="21">
+Offset point adjustment</tf>
+<tf desc="mc" ref="10" fs="13" x="158.45" y="347" wi="281.05" he="23">
+Offset point adjustment:</tf>
+<tf desc="mc" ref="21" fs="13" x="188.45" y="377" wi="279.5" he="38">
+Increasing the driving level for better clearance of the lifting axle</tf>
+<tf desc="mc" ref="22" fs="13" x="188.45" y="421" wi="200.5" he="21">
+Also called "lifting axle offset"</tf>
+</textfields>

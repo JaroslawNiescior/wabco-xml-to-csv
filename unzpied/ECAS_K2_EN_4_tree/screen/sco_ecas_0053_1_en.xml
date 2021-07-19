@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0053_1.swf" language="en">
+<tf desc="mc" ref="2" fs="13" x="157.45" y="337" wi="308.05" he="18.5">
+Driving levels II and III:</tf>
+<tf desc="mc" ref="7" fs="12" x="273.5" y="191.15" wi="88.5" he="19.8">
+Driving level I</tf>
+<tf desc="mc" ref="9" fs="12" x="155.5" y="164.15" wi="87.05" he="20">
+Driving level II</tf>
+<tf desc="mc" ref="10" fs="12" x="155.5" y="190.15" wi="105.5" he="17.8">
+e.g. with 70 km/h</tf>
+<tf desc="mc" ref="21" fs="13" x="187.45" y="367" wi="339.05" he="21">
+Specified in counts, as difference to driving level I</tf>
+<tf desc="mc" ref="22" fs="13" x="187.45" y="394" wi="362.05" he="18.5">
+e.g. for higher speeds, to save fuel</tf>
+<tf desc="mc" ref="23" fs="13" x="187.45" y="421" wi="329.5" he="46">
+Triggered via a switch, using the remote-control unit, or in the case of driving level II by a parameterized speed</tf>
+</textfields>

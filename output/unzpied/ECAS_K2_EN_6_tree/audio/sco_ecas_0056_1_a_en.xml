@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<audios file="sco_ecas_0056_1.swf" language="en">
+<au ref="1">
+The memory levels 1 and 2 are reference levels for loading and unloading, for instance adjusted to the heights of the loading ramps of frequently supplied customers.
+</au>
+<au ref="2">
+In difference to the unloading level the memory levels are not defined via parameterizing. They are specified by the driver using the remote-control unit, to be able to address them any time again.
+</au>
+<au ref="3">
+They are stored in the ECU until redefined by the driver using the remote-control unit.
+</au>
+</audios>

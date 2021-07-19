@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0061_2.swf" language="en">
+<tf desc="mc" ref="7" fs="13" x="158.45" y="257" wi="281.05" he="23">
+Automatic lowering of the lifting axle:</tf>
+<tf desc="mc" ref="21" fs="13" x="188.45" y="287" wi="223.55" he="36">
+Lowering of the lifting axle independent of the load condition</tf>
+<tf desc="mc" ref="22" fs="13" x="188.45" y="331" wi="253.55" he="24">
+Using a switch or the remote-control unit</tf>
+</textfields>

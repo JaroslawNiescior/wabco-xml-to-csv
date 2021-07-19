@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
-<textfields file="sco_ecas_0148_1.swf" language="en">
-<tf desc="mc" ref="11" fs="13" x="520.5" y="86" wi="156.5" he="83">
-The last detected and still pending fault is shown in red in the mainwindow of the diagnostic software.</tf>
-</textfields>

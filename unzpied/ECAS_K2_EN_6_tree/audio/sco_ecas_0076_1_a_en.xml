@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<audios file="sco_ecas_0076_1.swf" language="en">
+<au ref="1">
+The ECAS ECU for trailers is an universal ECU and is provided in two variants only, which look nearly the same: as standard variants for all ABS trailers and as variant for trailers with the Electronic Brake System EBS.
+</au>
+<au ref="2">
+Behind the base plate with the plugin-connections for all connected ECAS components and for power supply the actual electronics are located, which are not accessable.
+</au>
+<au ref="3">
+Normally the ECU does not need to be opened, only when it is installed, during changes of the system configuration or to check the current paths.
+</au>
+</audios>

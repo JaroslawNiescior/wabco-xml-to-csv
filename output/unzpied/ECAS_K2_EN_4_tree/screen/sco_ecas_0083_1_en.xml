@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0083_1.swf" language="en">
+<tf desc="mc" ref="5" fs="32" x="161.5" y="152.5" wi="447.1" he="40">
+ECAS solenoid valves
+</tf>
+</textfields>

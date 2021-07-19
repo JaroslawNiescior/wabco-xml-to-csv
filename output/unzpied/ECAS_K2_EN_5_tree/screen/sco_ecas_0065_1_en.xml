@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0065_1.swf" language="en">
+<tf desc="mc" ref="7" fs="13" x="158.45" y="367" wi="281.05" he="23">
+Overload protection:</tf>
+<tf desc="mc" ref="21" fs="13" x="188.45" y="397" wi="261.5" he="37">
+When overloaded, the superstructure is automatically lowered onto the lower stops.</tf>
+<tf desc="mc" ref="22" fs="13" x="188.45" y="441" wi="210.05" he="21">
+Activiation via parameterization</tf>
+</textfields>

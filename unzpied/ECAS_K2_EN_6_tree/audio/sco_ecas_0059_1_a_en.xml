@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<audios file="sco_ecas_0059_1.swf" language="en">
+<au ref="1">
+During calibration of the height sensors the so called upper level and lower level are specified, also referred to as stop levels.
+</au>
+<au ref="2">
+When during a control process one of these limits has been reached the ECAS ECU immediately aborts any change in the level.
+</au>
+<au ref="3">
+The distances of these levels from the mechanical stops is freely selectable. Thus the limiting cables or other height limit stops can be protected.
+</au>
+</audios>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<audios file="sco_ecas_0107_1.swf" language="en">
+<au ref="1">
+A 3-point control like here on this motor vehicle, corresponds to a 2-point control an the rear axle, which means 2 height sensors and separated control of the supporting bellows on the left and right,
+</au>
+<au ref="2">
+plus one height sensor and an ECAS solenoid valve for both sides of the front axle.
+</au>
+<au ref="3">
+This 3-point control is partially also used for drawbar trailers.
+</au>
+</audios>

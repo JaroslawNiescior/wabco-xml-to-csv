@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<audios file="sco_ecas_0073_1.swf" language="en">
+<au ref="1">
+ECAS stands for "Electronic Control Unit". The ECAS ECU performs numerous tasks:
+</au>
+<au ref="2">
+- The signals of connected height and pressure sensors are continuously monitored, converted in counts and evaluated.
+</au>
+<au ref="3">
+- The integrated computer calculates on the basis of the input signals and stored parameter values, how the connected ECAS solenoid valves have to be actuated to maintain the current reference level.
+</au>
+<au ref="4">
+- Possibly occured errors are detected, internally stored and indicated using the connected ECAS warning lamp.
+</au>
+<au ref="5">
+- The ECU supports in addition to be controlled via a connected remote-control unit.
+</au>
+<au ref="6">
+- Finally the ECAS ECU supports to communicate with an external device for diagnosis. Today mostly a PC provided with the appropriate diagnostic software is used.
+</au>
+</audios>

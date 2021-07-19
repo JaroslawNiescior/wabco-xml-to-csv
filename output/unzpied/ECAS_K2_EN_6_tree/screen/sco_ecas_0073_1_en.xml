@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<textfields file="sco_ecas_0073_1.swf" language="en">
+<tf desc="mc" ref="11" fs="12" x="279" y="98.5" wi="156" he="16.5">
+ECAS remote-control unit</tf>
+<tf desc="mc" ref="12" fs="12" x="508.5" y="204" wi="152.05" he="18">
+ECAS solenoid valves</tf>
+<tf desc="mc" ref="13" fs="12" x="508" y="294.15" wi="151.05" he="17.7">
+ECAS warning lamp</tf>
+<tf desc="mc" ref="14" fs="12" x="291" y="399.25" wi="137" he="20">
+PC diagnosis</tf>
+<tf desc="mc" ref="15" fs="12" x="71.5" y="293" wi="137" he="20">
+Pressure sensors</tf>
+<tf desc="mc" ref="16" fs="12" x="79" y="203" wi="124" he="20">
+Height sensors</tf>
+<tf desc="mc" ref="17" fs="12" x="297.5" y="203" wi="124" he="20">
+Parameter data</tf>
+<tf desc="mc" ref="18" fs="12" x="291" y="293" wi="137" he="20">
+Fault memory</tf>
+<tf desc="mc" ref="19" fs="18" x="295.25" y="245.5" wi="124" he="24.1">
+ECAS ECU</tf>
+<tf desc="mc" ref="27" fs="13" x="241" y="453" wi="434.15" he="24">
+The ECAS ECU performs numerous tasks.</tf>
+<obj desc="mc" ref="1" x="271.5" y="94" wi="169.5" he="26"/>
+</textfields>

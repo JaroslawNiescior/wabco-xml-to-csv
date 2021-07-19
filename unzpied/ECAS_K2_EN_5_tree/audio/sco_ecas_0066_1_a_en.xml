@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<audios file="sco_ecas_0066_1.swf" language="en">
+<au ref="1">
+The permissible overal height of an vehicle is required by law in most countries. Sometimes this height has to be used to full capacity. With ECAS this can be done as follows:
+</au>
+<au ref="2">
+To be able to increase the height of the shipping space, a very short ride clearance is selected for the empty vehicle.
+</au>
+<au ref="3">
+When the vehicle is loaded, the tyres are more deflected than before and the vehicle height is lowered by this amount. At the same time, because of the increased load, a longer ride clearance is required.
+</au>
+<au ref="4">
+Using ECAS the ride clearance can now be increased by the amount of tyre deflection. The overall vehicle height remains the same.
+</au>
+</audios>
